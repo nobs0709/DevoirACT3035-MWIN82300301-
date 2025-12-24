@@ -1,0 +1,5 @@
+library()
+install.packages("MASS")
+library(MASS)
+data <- read.csv("C:/Users/Santi/OneDrive/Documents/DevoirACT3035-MWIN82300301-/data/raw/insurance_claims.csv")
+head(data)
