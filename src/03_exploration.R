@@ -46,3 +46,9 @@ ggcorrplot(matrix_corr,
            lab = TRUE,
            title = "Corrélation age vs claim_amount")
 
+#4. Graphique Repartition Fraude
+ggplot(data_transf, aes(x = fraud_reported)) +
+  geom_bar(fill = "brown") +
+  labs(title = "Répartition des sinistres frauduleux",
+       x = "Fraude signalée",
+       y = "Nombre de cas")
