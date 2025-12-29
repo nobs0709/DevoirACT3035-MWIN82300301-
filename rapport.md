@@ -18,7 +18,7 @@ Le fichier original a été conservé dans le dossier data/raw afin de préserve
 
 3. Processus ETL (Extraction, Transformation, Chargement)
  3.1 Extraction
-   Les données ont été importées dans R à l’aide de la fonction `read.csv()` à partir du dossier `data/raw`.
+   Les données ont été importées dans R à l’aide de la fonction read.csv() à partir du dossier data/raw.
 
  3.2 Transformation
 Plusieurs étapes de nettoyage et de transformation ont été réalisées :
