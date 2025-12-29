@@ -46,3 +46,9 @@ Les variables de type caractère ont été converties en facteurs
 La variable cible fraud_reported a été transformée en variable binaire :
 1 pour reclamation frauduleuse
 0 pour reclamation honnête
+
+Après, Le jeu de données final nettoyé et transformé a été sauvegardé dans le dossier data/processed de notre fichier depot
+Les données ont été séparées en :
+80 % pour l’entraînement
+20 % pour le test
+Cette séparation permettra d’évaluer la performance des modèles sur des données non utilisées lors de l’estimation.
