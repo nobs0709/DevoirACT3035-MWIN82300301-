@@ -52,3 +52,45 @@ Les données ont été séparées en :
 80 % pour l’entraînement
 20 % pour le test
 Cette séparation permettra d’évaluer la performance des modèles sur des données non utilisées lors de l’estimation.
+
+## Etape 3 : Analyse exploratoire des données
+
+Dans cette étape, l’objectif est de mieux comprendre les données nettoyées avant de passer à la modélisation. 
+L’analyse exploratoire permet d’identifier la structure des variables, de repérer des tendances générales et d’avoir une première idée des liens possibles avec la fraude.
+Les données utilisées ici proviennent du fichier transformé insurance_final.csv, obtenu après l’étape de nettoyage et de transformation puis après importer via 
+le fichier deta/processed
+
+Les librairies tidyverse, dplyr et ggplot2 sont utilisées pour la manipulation et la visualisation des données.
+
+1.Statistiques descriptives
+Une première analyse descriptive est réalisée afin d’avoir une vue d’ensemble du jeu de données :
+Des statistiques de base (minimum, maximum, moyenne, médiane, quartiles) sont obtenues à l’aide de la fonction summary().
+La moyenne et l’écart-type du montant total des réclamations sont calculés pour mesurer la dispersion.
+Des tableaux de fréquences sont produits pour certaines variables catégorielles comme :
+  la gravité de l’incident (incident_severity)
+  le sexe de l’assuré (insured_sex)
+  La proportion de fraudes est également calculée afin d’évaluer le déséquilibre éventuel entre les classes.
+
+2.Visualisations graphiques
+
+Plusieurs graphiques sont réalisés pour illustrer les résultats de l’analyse exploratoire :
+     - Histogramme et courbe de densité du montant total des réclamations
+        Ce graphique permet d’observer la distribution des coûts de réclamation et de vérifier si celle-ci est asymétrique.
+
+      -Boxplot du montant des sinistres par type d’incident
+        Ce graphique met en évidence les différences de montants de réclamation selon le type d’incident et permet d’identifier d’éventuelles valeurs extrêmes.
+
+       -Analyse de corrélation
+         Une matrice de corrélation est construite entre l’âge de l’assuré et le montant total des réclamations.
+         Le graphique de corrélation permet d’évaluer visuellement l’intensité et le sens du lien entre ces variables numériques.
+
+       - Répartition des sinistres frauduleux
+         Un diagramme en barres montre le nombre de cas frauduleux et non frauduleux, ce qui permet de visualiser la distribution de la variable cible.
+
+3.Conclusion de l’analyse exploratoire
+ Cette analyse exploratoire permet de :
+  *mieux comprendre la distribution des variables clés,
+  *identifier des différences selon les types d’incidents,
+  *observer la proportion de fraude dans le jeu de données.
+
+Ces résultats servent de base pour la modélisation statistique, notamment avec des modèles de type régression logistique ou GLM.
