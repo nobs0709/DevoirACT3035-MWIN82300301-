@@ -31,3 +31,4 @@ data_selection <- data_selection %>%
 #Ca va supprimer directement les observations contenant les valeurs
 #manquantes
 
+#Traitement des valeurs aberrantes
