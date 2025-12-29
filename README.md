@@ -15,6 +15,8 @@ Les étapes seront celles-ci:
 7.discussion des limites
 
 ## Etape 1: Acquisition des donnees
-J'ai fait un telechargement manuel de mes donnees via Kaggle, voici le [lien](https://www.kaggle.com/datasets/buntyshah/auto-insurance-claims-data/data).
+Les données utilisées dans ce projet ont étés collectées sur le site web des données ouvertes Kaggle.
+Mon jeu de données choisi est appelé "Insurance_claims"; vous pouvez y acceder direct via 
+le [lien](https://www.kaggle.com/datasets/buntyshah/auto-insurance-claims-data/data).
 
 
