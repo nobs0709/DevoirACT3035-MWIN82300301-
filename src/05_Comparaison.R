@@ -48,3 +48,10 @@ table(
   Réel = y_test,
   Prédit = prediction
 )
+
+#Interpretation :
+#Pourquoi avoir choisi ce modele: 
+#J'ai choisie ce modele car je le trouve mieux adapté predire la variable reponse cad 
+#prédire si une réclamation est frauduleuse ou non. Elle est simple à mettre en œuvre, rapide,
+#et surtout permet d’interpréter les coefficients, càd de comprendre comment chaque
+# variable explicative influence la probabilité de fraude reported.
