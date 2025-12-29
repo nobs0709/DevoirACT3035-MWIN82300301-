@@ -1,4 +1,6 @@
 # DevoirACT3035-MWIN82300301-
+Realise par Nobella Santiana MWITENEZA
+Code permanent: MWIN82300301
 
 ## Description TP ACT3035 LABORATOIRE EN ACTUARIAT
 
