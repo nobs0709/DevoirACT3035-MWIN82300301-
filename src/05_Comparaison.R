@@ -55,3 +55,9 @@ table(
 #prédire si une réclamation est frauduleuse ou non. Elle est simple à mettre en œuvre, rapide,
 #et surtout permet d’interpréter les coefficients, càd de comprendre comment chaque
 # variable explicative influence la probabilité de fraude reported.
+
+#Interpertation resultat modele RegLog:
+#Apres avoir fait le summary du modele j'ai pu voir les coefficients de chaque
+#variable explicative qui infulence comme on l'a dit la probabilite de fraude
+#Brievement ce que je peux dire, un coefficient negatif signifie reduit le risque
+#de fraude tandisque un coefficient positif augmente le risque de fraude
