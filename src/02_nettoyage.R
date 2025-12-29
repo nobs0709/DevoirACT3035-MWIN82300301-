@@ -65,3 +65,5 @@ Taux_fraude <- data_selection %>%
   group_by(incident_type) %>%
   summarise(prob_reclam = mean(fraud_reported == "Y"))
 
+#Joindre la nouvelle variable a notre data de base
+data_selection <- left_join(data_selection, Taux_fraude, by = "incident_type")
