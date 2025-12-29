@@ -1,6 +1,9 @@
 library(dplyr)
 library(tidyverse)
 
+#Extraction 
+data <- read.csv("data/raw/insurance_claims.csv")
+
 #Je vais faire une selection des variables necessaires
 #pour mon analyse 
 data_selection <- data %>%
@@ -41,3 +44,5 @@ seuil_reclamation <- quantile(data_selection$total_claim_amount, 0.95)
 # Donc, on a :
 data_selection <- data_selection %>%
   filter(total_claim_amount <= seuil_reclamation)
+
+
