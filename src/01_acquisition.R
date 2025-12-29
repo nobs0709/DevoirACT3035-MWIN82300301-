@@ -1,9 +1,4 @@
-library(dplyr)
-library(tidyverse)
-
-
-getwd()
-setwd("C:/Users/Santi/OneDrive/Documents/DevoirACT3035-MWIN82300301-/")
+library()
 
 #Importation de notre jeu de données:
 data <- read.csv("data/raw/insurance_claims.csv", stringsAsFactors = FALSE)
