@@ -104,4 +104,13 @@ table(
 #sont utiles mais pas parfaites.
 
 #Comparaison de modele_RegLog et modele_glm
-AIC(modele_regLog, modele_glm)
+summary(modele_regLog)
+summary(modele_glm)
+
+# Choix modele:
+#malgre que le modele GLM est bon detecteur,
+#Je choisis le modele Regression lineaire parce que comme nous pouvons le voir dans 
+#les resultats son AIC est 745.18 tandisqu'il est de AIC: 609.06
+#Le modèle avec l’AIC le plus faible est préféré, 
+#car il équilibre mieux la qualité d’ajustement et la simplicité.
+#De plus les resultats du modele GLM sont un peu complexe a interpreter
