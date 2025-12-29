@@ -25,6 +25,10 @@ data_selection <- data %>%
 view (data_selection)
 
 #Tranformation
+#Apres avoir visionner data_selection, on remarque des "?" 
+#dans les observation du variable Collision_type
+#Je veux faire le nottoyage des ?
+data_selection$collision_type[data_selection$collision_type == "?"] <- NA
 #Gestion des valeurs manquantes
 data_selection <- data_selection %>%
    na.omit()
