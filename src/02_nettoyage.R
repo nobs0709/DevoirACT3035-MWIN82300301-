@@ -20,3 +20,8 @@ data_selection <- data %>%
 # Je vais voir si j'ai correctement mon data
 # avec les variables selectionnées:
 view (data_selection)
+
+#Tranformation
+#Gestion des valeurs manquantes
+data_selection <- data_selection %>%
+   na.omit()
