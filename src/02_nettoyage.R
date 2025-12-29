@@ -59,6 +59,7 @@ data_selection <- data_selection %>%
     haute_reclamation = ifelse(total_claim_amount > 10000, 1, 0),
     jeune_conducteur = ifelse(age < 25, 1, 0)
   )
+
 # Probabilité de réclamation par type d’incident
 Taux_fraude <- data_selection %>%
   group_by(incident_type) %>%
