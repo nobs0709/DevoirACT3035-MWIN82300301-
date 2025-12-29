@@ -18,7 +18,7 @@ table(data_transf$insured_sex)
 # Proportion de fraude
 prop.table(table(df$fraud_reported))
 
-#VISUALISATIONS
+#VISUALISATIONS : AJOUT GRAPHIQUES
 
 
 
