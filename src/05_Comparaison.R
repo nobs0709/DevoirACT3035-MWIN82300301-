@@ -95,3 +95,10 @@ table(
   Réel = y_test,
   Prédit = prediction
 )
+
+#Interpretation resultat predit:
+#D'apres les resultats nous pouvons bien voir que le modele glm joue bien
+#un role de detecteur il a bien detecter et avec le test reel et avec prediction
+#42 cas de fraude cad le modèle glm reconnaît bien les dossiers honnêtes, 
+#mais il rate encore quelques fraudes, ce qui montre que nos variables 
+#sont utiles mais pas parfaites.
