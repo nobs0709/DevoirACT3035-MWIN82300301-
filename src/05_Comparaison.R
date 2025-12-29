@@ -70,3 +70,8 @@ table(
 #que les fraudes sont très rares dans les données et
 #que le modèle initial avait trop de variables, 
 #ce qui l’empêche de distinguer les rares cas de fraude.
+
+#2. GLM
+modele_glm <- glm(fraud_reported ~ ., 
+                  data = data_transf, family = binomial(link = "probit"))
+summary(modele_glm)
