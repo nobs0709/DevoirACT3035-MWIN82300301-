@@ -75,3 +75,10 @@ table(
 modele_glm <- glm(fraud_reported ~ ., 
                   data = data_transf, family = binomial(link = "probit"))
 summary(modele_glm)
+
+#Interpretation :
+#Pourquoi avoir choisi ce modele: 
+# J'ai choisie ce modele car il permet à la fois de prédire 
+# et de comprendre l’influence de chaque variable.
+# Idéal quand on veut savoir quelles caractéristiques augmentent
+# la probabilité d’un événement, pas juste prédire.
