@@ -32,3 +32,4 @@ data_selection <- data_selection %>%
 #manquantes
 
 #Traitement des valeurs aberrantes
+
