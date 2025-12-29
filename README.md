@@ -26,3 +26,8 @@ Cette étape vise à préparer les données brutes pour l’analyse et la modél
 D'abord j'ai fait l'importation de mon jeu de données à partir du fichier CSV conservé dans le dossier data/raw.
 Mon jeu de données a beaucoup de variables mais pour faciliter l'analyse actuairlle, j'ai fait une sélection des variables les plus pertinentes entre autres:
 age,insured_sex, policy_state, policy_csl, incident_type, incident_severity, collision_type, authorities_contacted, total_claim_amount, fraud_reported
+
+Lors de l’exploration des données, la variable collision_type contenait des valeurs "?", interprétées comme des valeurs manquantes.
+Ces valeurs ont été remplacées par NA.
+Ensuite, la méthode na.omit() a été utilisée afin de supprimer les observations contenant des valeurs manquantes.
+Cette approche a été choisie conformément aux notions vues en cours, pour garantir un jeu de données complet avant la modélisation.
