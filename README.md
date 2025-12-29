@@ -1,8 +1,7 @@
 # DevoirACT3035-MWIN82300301-
 
-## Description
+## Description TP ACT3035 LABORATOIRE EN ACTUARIAT
 
-TP ACT3035 
 Ce dépôt contient mon travail concernant le TP du cours Laboratoire et Actuariat.
 Dans ce travail seul le langage R a été utilisé
 Ce projet a pour objectif de faire une analyse acturielle d'un jeu de données collectées sur un des sites proposées afin de construire des modèles prédictifs pertinents.
