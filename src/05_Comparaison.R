@@ -82,3 +82,16 @@ summary(modele_glm)
 # et de comprendre l’influence de chaque variable.
 # Idéal quand on veut savoir quelles caractéristiques augmentent
 # la probabilité d’un événement, pas juste prédire.
+
+#Test de notre modele
+y_predit <- predict(model_glm, newdata = x_test, type = "response")
+y_pred_class <- ifelse(y_pred, 1, 0)
+y_pred_class
+head(y_predit)
+summary(proba_fraude)
+prediction <- ifelse(y_pred_class >= 0.3, 1, 0)
+
+table(
+  Réel = y_test,
+  Prédit = prediction
+)
