@@ -42,11 +42,11 @@ Une séparation des données en ensembles d’entraînement (80 %) et de test (2
 Une analyse exploratoire a été réalisée afin de mieux comprendre la structure des données et d’identifier d’éventuels problèmes.
 
 Analyses effectuées :
-- statistiques descriptives globales ;
+statistiques descriptives globales ;
 - calcul de la moyenne et de l’écart-type du montant des réclamations ;
 - tableaux de fréquences pour les variables catégorielles ;
 - proportion de réclamations frauduleuses ;
-- visualisations :
+ visualisations :
 - histogramme et densité du montant total des réclamations ;
 - boxplots du montant des sinistres selon le type d’incident ;
 - analyse de corrélation entre l’âge et le montant des réclamations ;
