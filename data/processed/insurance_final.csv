@@ -1,0 +1,773 @@
+"age","insured_sex","policy_state","policy_csl","incident_type","incident_severity","collision_type","authorities_contacted","total_claim_amount","fraud_reported","haute_reclamation","jeune_conducteur","prob_reclam"
+48,"MALE","OH","250/500","Single Vehicle Collision","Major Damage","Side Collision","Police",71610,"Y",1,0,0.283018867924528
+29,"FEMALE","OH","100/300","Multi-vehicle Collision","Minor Damage","Rear Collision","Police",34650,"N",1,0,0.27930174563591
+41,"FEMALE","IL","250/500","Single Vehicle Collision","Major Damage","Front Collision","Police",63400,"Y",1,0,0.283018867924528
+39,"FEMALE","OH","250/500","Multi-vehicle Collision","Major Damage","Rear Collision","Fire",64100,"Y",1,0,0.27930174563591
+34,"MALE","IN","250/500","Multi-vehicle Collision","Minor Damage","Front Collision","Police",78650,"N",1,0,0.27930174563591
+37,"MALE","IL","100/300","Multi-vehicle Collision","Total Loss","Front Collision","Police",51590,"N",1,0,0.27930174563591
+33,"FEMALE","IL","100/300","Single Vehicle Collision","Total Loss","Front Collision","Police",27700,"N",1,0,0.283018867924528
+42,"MALE","IL","100/300","Single Vehicle Collision","Total Loss","Rear Collision","Other",42300,"N",1,0,0.283018867924528
+42,"FEMALE","OH","100/300","Single Vehicle Collision","Total Loss","Front Collision","Police",87010,"N",1,0,0.283018867924528
+23,"MALE","OH","500/1000","Single Vehicle Collision","Total Loss","Rear Collision","Ambulance",56520,"N",1,1,0.283018867924528
+38,"FEMALE","OH","250/500","Single Vehicle Collision","Total Loss","Rear Collision","Police",46200,"Y",1,0,0.283018867924528
+58,"FEMALE","IN","100/300","Multi-vehicle Collision","Major Damage","Side Collision","Other",63120,"Y",1,0,0.27930174563591
+26,"MALE","OH","500/1000","Multi-vehicle Collision","Major Damage","Rear Collision","Other",52110,"N",1,0,0.27930174563591
+31,"MALE","IN","500/1000","Single Vehicle Collision","Total Loss","Side Collision","Police",77880,"N",1,0,0.283018867924528
+37,"FEMALE","OH","500/1000","Single Vehicle Collision","Total Loss","Side Collision","Other",72930,"N",1,0,0.283018867924528
+39,"FEMALE","IN","500/1000","Multi-vehicle Collision","Major Damage","Side Collision","Police",60400,"N",1,0,0.27930174563591
+62,"MALE","IN","250/500","Multi-vehicle Collision","Minor Damage","Rear Collision","Police",47160,"N",1,0,0.27930174563591
+41,"FEMALE","IL","500/1000","Multi-vehicle Collision","Total Loss","Side Collision","Police",37840,"N",1,0,0.27930174563591
+55,"MALE","IL","100/300","Multi-vehicle Collision","Major Damage","Rear Collision","Ambulance",71520,"Y",1,0,0.27930174563591
+40,"MALE","IN","100/300","Single Vehicle Collision","Minor Damage","Rear Collision","Other",77880,"N",1,0,0.283018867924528
+35,"MALE","OH","100/300","Multi-vehicle Collision","Major Damage","Rear Collision","Other",71500,"Y",1,0,0.27930174563591
+40,"FEMALE","OH","100/300","Single Vehicle Collision","Minor Damage","Side Collision","Other",69840,"N",1,0,0.283018867924528
+25,"MALE","IL","250/500","Multi-vehicle Collision","Major Damage","Side Collision","Ambulance",75600,"N",1,0,0.27930174563591
+37,"MALE","IL","100/300","Multi-vehicle Collision","Major Damage","Side Collision","Police",67140,"Y",1,0,0.27930174563591
+35,"FEMALE","IL","500/1000","Multi-vehicle Collision","Total Loss","Front Collision","Police",29790,"N",1,0,0.27930174563591
+30,"MALE","IL","100/300","Multi-vehicle Collision","Major Damage","Front Collision","Ambulance",77110,"N",1,0,0.27930174563591
+37,"MALE","IL","500/1000","Single Vehicle Collision","Total Loss","Side Collision","Fire",64800,"N",1,0,0.283018867924528
+33,"MALE","OH","100/300","Single Vehicle Collision","Major Damage","Front Collision","Other",53100,"Y",1,0,0.283018867924528
+28,"FEMALE","IL","100/300","Single Vehicle Collision","Total Loss","Rear Collision","Police",60200,"Y",1,0,0.283018867924528
+54,"FEMALE","IN","500/1000","Multi-vehicle Collision","Major Damage","Rear Collision","Police",62300,"N",1,0,0.27930174563591
+37,"MALE","IN","250/500","Single Vehicle Collision","Major Damage","Front Collision","Ambulance",60170,"Y",1,0,0.283018867924528
+26,"MALE","IL","100/300","Single Vehicle Collision","Minor Damage","Rear Collision","Ambulance",40000,"N",1,0,0.283018867924528
+23,"FEMALE","IL","500/1000","Multi-vehicle Collision","Minor Damage","Side Collision","Other",51660,"N",1,1,0.27930174563591
+30,"FEMALE","OH","250/500","Single Vehicle Collision","Total Loss","Rear Collision","Other",51120,"N",1,0,0.283018867924528
+44,"MALE","IL","100/300","Single Vehicle Collision","Minor Damage","Front Collision","Other",56400,"N",1,0,0.283018867924528
+40,"FEMALE","IL","250/500","Multi-vehicle Collision","Total Loss","Rear Collision","Other",55120,"N",1,0,0.27930174563591
+33,"FEMALE","IN","100/300","Multi-vehicle Collision","Total Loss","Rear Collision","Fire",77110,"N",1,0,0.27930174563591
+47,"MALE","OH","500/1000","Multi-vehicle Collision","Major Damage","Front Collision","Fire",62800,"Y",1,0,0.27930174563591
+35,"FEMALE","IL","100/300","Single Vehicle Collision","Total Loss","Rear Collision","Other",76600,"N",1,0,0.283018867924528
+59,"MALE","OH","250/500","Multi-vehicle Collision","Minor Damage","Front Collision","Fire",81800,"N",1,0,0.27930174563591
+40,"FEMALE","IN","100/300","Multi-vehicle Collision","Major Damage","Side Collision","Police",70510,"N",1,0,0.27930174563591
+26,"MALE","OH","100/300","Single Vehicle Collision","Minor Damage","Rear Collision","Fire",78900,"N",1,0,0.283018867924528
+56,"FEMALE","IN","250/500","Multi-vehicle Collision","Major Damage","Front Collision","Fire",56430,"N",1,0,0.27930174563591
+39,"MALE","IL","250/500","Single Vehicle Collision","Total Loss","Front Collision","Ambulance",65790,"N",1,0,0.283018867924528
+36,"FEMALE","OH","250/500","Multi-vehicle Collision","Minor Damage","Side Collision","Police",62920,"N",1,0,0.27930174563591
+34,"MALE","IN","100/300","Multi-vehicle Collision","Major Damage","Rear Collision","Police",69480,"Y",1,0,0.27930174563591
+44,"MALE","IL","500/1000","Multi-vehicle Collision","Total Loss","Side Collision","Other",44280,"N",1,0,0.27930174563591
+32,"MALE","IL","500/1000","Single Vehicle Collision","Minor Damage","Side Collision","Other",56300,"N",1,0,0.283018867924528
+42,"MALE","OH","500/1000","Multi-vehicle Collision","Major Damage","Front Collision","Fire",68520,"Y",1,0,0.27930174563591
+42,"MALE","OH","250/500","Multi-vehicle Collision","Total Loss","Rear Collision","Fire",59130,"Y",1,0,0.27930174563591
+39,"FEMALE","IN","100/300","Multi-vehicle Collision","Minor Damage","Front Collision","Ambulance",82320,"Y",1,0,0.27930174563591
+64,"FEMALE","OH","250/500","Multi-vehicle Collision","Minor Damage","Side Collision","Fire",33930,"N",1,0,0.27930174563591
+30,"MALE","OH","100/300","Single Vehicle Collision","Major Damage","Front Collision","Ambulance",68530,"N",1,0,0.283018867924528
+42,"FEMALE","OH","100/300","Multi-vehicle Collision","Major Damage","Side Collision","Other",68310,"Y",1,0,0.27930174563591
+41,"FEMALE","OH","100/300","Single Vehicle Collision","Total Loss","Front Collision","Other",61290,"Y",1,0,0.283018867924528
+41,"FEMALE","OH","250/500","Single Vehicle Collision","Minor Damage","Rear Collision","Ambulance",30100,"N",1,0,0.283018867924528
+37,"FEMALE","IN","100/300","Multi-vehicle Collision","Minor Damage","Rear Collision","Fire",57120,"N",1,0,0.27930174563591
+40,"FEMALE","IL","100/300","Multi-vehicle Collision","Minor Damage","Side Collision","Ambulance",42930,"N",1,0,0.27930174563591
+35,"FEMALE","OH","100/300","Multi-vehicle Collision","Total Loss","Front Collision","Ambulance",51210,"N",1,0,0.27930174563591
+47,"MALE","IN","250/500","Multi-vehicle Collision","Total Loss","Front Collision","Police",59730,"N",1,0,0.27930174563591
+38,"FEMALE","OH","500/1000","Single Vehicle Collision","Major Damage","Rear Collision","Fire",72200,"Y",1,0,0.283018867924528
+31,"MALE","OH","250/500","Multi-vehicle Collision","Minor Damage","Side Collision","Ambulance",50800,"N",1,0,0.27930174563591
+48,"MALE","IN","500/1000","Multi-vehicle Collision","Major Damage","Side Collision","Ambulance",60940,"Y",1,0,0.27930174563591
+41,"MALE","OH","100/300","Multi-vehicle Collision","Major Damage","Front Collision","Fire",58300,"N",1,0,0.27930174563591
+34,"FEMALE","IL","500/1000","Multi-vehicle Collision","Minor Damage","Front Collision","Other",68400,"N",1,0,0.27930174563591
+32,"FEMALE","IL","500/1000","Single Vehicle Collision","Total Loss","Side Collision","Fire",64240,"N",1,0,0.283018867924528
+25,"FEMALE","IN","100/300","Multi-vehicle Collision","Major Damage","Side Collision","Other",45120,"Y",1,0,0.27930174563591
+29,"FEMALE","OH","250/500","Multi-vehicle Collision","Total Loss","Front Collision","Fire",66950,"N",1,0,0.27930174563591
+43,"FEMALE","IN","100/300","Multi-vehicle Collision","Major Damage","Front Collision","Ambulance",70680,"N",1,0,0.27930174563591
+47,"FEMALE","IN","500/1000","Single Vehicle Collision","Major Damage","Side Collision","Fire",72930,"Y",1,0,0.283018867924528
+25,"MALE","IL","250/500","Multi-vehicle Collision","Minor Damage","Rear Collision","Other",64890,"Y",1,0,0.27930174563591
+41,"FEMALE","IN","100/300","Single Vehicle Collision","Minor Damage","Rear Collision","Police",79300,"N",1,0,0.283018867924528
+27,"FEMALE","IL","100/300","Single Vehicle Collision","Major Damage","Side Collision","Police",52800,"N",1,0,0.283018867924528
+41,"FEMALE","IL","250/500","Multi-vehicle Collision","Minor Damage","Front Collision","Fire",28800,"N",1,0,0.27930174563591
+61,"FEMALE","OH","500/1000","Multi-vehicle Collision","Major Damage","Rear Collision","Police",79800,"Y",1,0,0.27930174563591
+28,"FEMALE","IN","500/1000","Multi-vehicle Collision","Major Damage","Front Collision","Ambulance",74200,"N",1,0,0.27930174563591
+47,"FEMALE","IL","500/1000","Single Vehicle Collision","Major Damage","Front Collision","Fire",70590,"Y",1,0,0.283018867924528
+31,"FEMALE","IN","500/1000","Multi-vehicle Collision","Major Damage","Rear Collision","Fire",60940,"Y",1,0,0.27930174563591
+42,"FEMALE","OH","250/500","Single Vehicle Collision","Minor Damage","Rear Collision","Police",74700,"N",1,0,0.283018867924528
+60,"MALE","IN","100/300","Single Vehicle Collision","Major Damage","Front Collision","Fire",70000,"Y",1,0,0.283018867924528
+41,"MALE","IL","500/1000","Multi-vehicle Collision","Total Loss","Rear Collision","Other",81070,"N",1,0,0.27930174563591
+32,"MALE","IN","100/300","Multi-vehicle Collision","Major Damage","Side Collision","Other",57720,"N",1,0,0.27930174563591
+46,"MALE","IN","100/300","Multi-vehicle Collision","Total Loss","Side Collision","Other",47700,"Y",1,0,0.27930174563591
+31,"FEMALE","IL","500/1000","Single Vehicle Collision","Minor Damage","Rear Collision","Police",51260,"N",1,0,0.283018867924528
+41,"MALE","OH","500/1000","Multi-vehicle Collision","Major Damage","Side Collision","Police",70400,"Y",1,0,0.27930174563591
+39,"FEMALE","OH","250/500","Multi-vehicle Collision","Minor Damage","Rear Collision","Police",72820,"N",1,0,0.27930174563591
+41,"MALE","IL","500/1000","Single Vehicle Collision","Minor Damage","Side Collision","Fire",69300,"N",1,0,0.283018867924528
+36,"FEMALE","IL","500/1000","Single Vehicle Collision","Major Damage","Front Collision","Ambulance",76560,"Y",1,0,0.283018867924528
+38,"FEMALE","IL","250/500","Single Vehicle Collision","Major Damage","Front Collision","Ambulance",55440,"Y",1,0,0.283018867924528
+25,"FEMALE","OH","250/500","Multi-vehicle Collision","Total Loss","Front Collision","Other",77130,"N",1,0,0.27930174563591
+35,"FEMALE","IL","100/300","Single Vehicle Collision","Total Loss","Rear Collision","Ambulance",42000,"N",1,0,0.283018867924528
+39,"MALE","IN","250/500","Multi-vehicle Collision","Total Loss","Rear Collision","Ambulance",36300,"N",1,0,0.27930174563591
+38,"MALE","IL","100/300","Single Vehicle Collision","Total Loss","Side Collision","Other",40320,"N",1,0,0.283018867924528
+43,"MALE","OH","100/300","Single Vehicle Collision","Major Damage","Front Collision","Fire",63840,"Y",1,0,0.283018867924528
+28,"FEMALE","IL","250/500","Multi-vehicle Collision","Major Damage","Front Collision","Fire",44730,"Y",1,0,0.27930174563591
+45,"MALE","IN","250/500","Multi-vehicle Collision","Minor Damage","Front Collision","Other",84720,"N",1,0,0.27930174563591
+39,"MALE","IN","250/500","Multi-vehicle Collision","Major Damage","Front Collision","Other",61500,"N",1,0,0.27930174563591
+27,"FEMALE","OH","100/300","Multi-vehicle Collision","Major Damage","Front Collision","Ambulance",51000,"N",1,0,0.27930174563591
+33,"FEMALE","IL","500/1000","Single Vehicle Collision","Total Loss","Side Collision","Police",46800,"N",1,0,0.283018867924528
+32,"MALE","OH","250/500","Single Vehicle Collision","Minor Damage","Side Collision","Ambulance",78120,"N",1,0,0.283018867924528
+34,"FEMALE","IN","250/500","Single Vehicle Collision","Major Damage","Rear Collision","Police",69200,"Y",1,0,0.283018867924528
+28,"FEMALE","IL","250/500","Multi-vehicle Collision","Minor Damage","Rear Collision","Fire",65500,"N",1,0,0.27930174563591
+46,"FEMALE","IL","500/1000","Multi-vehicle Collision","Minor Damage","Rear Collision","Fire",76120,"N",1,0,0.27930174563591
+32,"FEMALE","IL","250/500","Multi-vehicle Collision","Total Loss","Front Collision","Other",73560,"N",1,0,0.27930174563591
+35,"MALE","OH","100/300","Single Vehicle Collision","Total Loss","Rear Collision","Police",52030,"N",1,0,0.283018867924528
+29,"MALE","IN","250/500","Single Vehicle Collision","Major Damage","Rear Collision","Ambulance",70800,"Y",1,0,0.283018867924528
+31,"FEMALE","IL","500/1000","Multi-vehicle Collision","Total Loss","Rear Collision","Police",45630,"N",1,0,0.27930174563591
+41,"MALE","IL","500/1000","Multi-vehicle Collision","Major Damage","Side Collision","Fire",64000,"Y",1,0,0.27930174563591
+38,"FEMALE","OH","100/300","Single Vehicle Collision","Minor Damage","Front Collision","Fire",47300,"N",1,0,0.283018867924528
+27,"MALE","IL","100/300","Single Vehicle Collision","Major Damage","Rear Collision","Other",71680,"Y",1,0,0.283018867924528
+32,"FEMALE","OH","100/300","Single Vehicle Collision","Total Loss","Side Collision","Other",82720,"N",1,0,0.283018867924528
+45,"MALE","IL","100/300","Multi-vehicle Collision","Major Damage","Rear Collision","Fire",48060,"N",1,0,0.27930174563591
+32,"MALE","IN","250/500","Multi-vehicle Collision","Total Loss","Rear Collision","Police",63570,"Y",1,0,0.27930174563591
+54,"FEMALE","OH","100/300","Multi-vehicle Collision","Total Loss","Rear Collision","Fire",63240,"N",1,0,0.27930174563591
+33,"FEMALE","OH","100/300","Multi-vehicle Collision","Minor Damage","Rear Collision","Ambulance",54240,"Y",1,0,0.27930174563591
+50,"MALE","OH","100/300","Single Vehicle Collision","Major Damage","Front Collision","Police",37280,"Y",1,0,0.283018867924528
+61,"MALE","OH","100/300","Multi-vehicle Collision","Minor Damage","Rear Collision","Police",72100,"N",1,0,0.27930174563591
+38,"MALE","IN","100/300","Multi-vehicle Collision","Total Loss","Front Collision","Ambulance",78240,"N",1,0,0.27930174563591
+48,"FEMALE","IN","500/1000","Single Vehicle Collision","Total Loss","Front Collision","Ambulance",76050,"N",1,0,0.283018867924528
+48,"FEMALE","OH","500/1000","Multi-vehicle Collision","Total Loss","Side Collision","Ambulance",86060,"N",1,0,0.27930174563591
+29,"FEMALE","IN","500/1000","Multi-vehicle Collision","Minor Damage","Side Collision","Ambulance",61380,"N",1,0,0.27930174563591
+28,"FEMALE","OH","250/500","Single Vehicle Collision","Major Damage","Rear Collision","Fire",71280,"Y",1,0,0.283018867924528
+45,"MALE","IL","500/1000","Multi-vehicle Collision","Minor Damage","Front Collision","Ambulance",64000,"N",1,0,0.27930174563591
+42,"MALE","IL","250/500","Multi-vehicle Collision","Minor Damage","Rear Collision","Police",51740,"N",1,0,0.27930174563591
+28,"MALE","OH","250/500","Single Vehicle Collision","Total Loss","Rear Collision","Ambulance",53600,"Y",1,0,0.283018867924528
+29,"MALE","IL","250/500","Multi-vehicle Collision","Total Loss","Rear Collision","Other",44910,"N",1,0,0.27930174563591
+31,"FEMALE","IN","250/500","Multi-vehicle Collision","Major Damage","Front Collision","Fire",48100,"N",1,0,0.27930174563591
+46,"MALE","IN","100/300","Single Vehicle Collision","Minor Damage","Rear Collision","Other",79600,"N",1,0,0.283018867924528
+34,"MALE","IN","100/300","Single Vehicle Collision","Minor Damage","Front Collision","Ambulance",77040,"N",1,0,0.283018867924528
+45,"FEMALE","IL","250/500","Single Vehicle Collision","Minor Damage","Rear Collision","Fire",62590,"N",1,0,0.283018867924528
+40,"FEMALE","IN","500/1000","Single Vehicle Collision","Total Loss","Front Collision","Other",85150,"N",1,0,0.283018867924528
+36,"MALE","OH","500/1000","Multi-vehicle Collision","Major Damage","Side Collision","Fire",51100,"N",1,0,0.27930174563591
+26,"MALE","OH","100/300","Single Vehicle Collision","Minor Damage","Rear Collision","Police",81840,"Y",1,0,0.283018867924528
+46,"MALE","OH","100/300","Single Vehicle Collision","Major Damage","Front Collision","Ambulance",54900,"N",1,0,0.283018867924528
+34,"FEMALE","IL","100/300","Multi-vehicle Collision","Total Loss","Front Collision","Ambulance",18000,"N",1,0,0.27930174563591
+25,"FEMALE","IN","100/300","Multi-vehicle Collision","Major Damage","Rear Collision","Other",73920,"Y",1,0,0.27930174563591
+39,"MALE","IN","250/500","Single Vehicle Collision","Minor Damage","Side Collision","Police",50490,"N",1,0,0.283018867924528
+47,"FEMALE","OH","100/300","Single Vehicle Collision","Total Loss","Front Collision","Police",55500,"N",1,0,0.283018867924528
+26,"MALE","IL","250/500","Multi-vehicle Collision","Total Loss","Rear Collision","Other",40160,"N",1,0,0.27930174563591
+44,"MALE","IL","500/1000","Multi-vehicle Collision","Total Loss","Side Collision","Fire",55680,"N",1,0,0.27930174563591
+48,"MALE","IL","250/500","Single Vehicle Collision","Major Damage","Front Collision","Ambulance",59400,"N",1,0,0.283018867924528
+49,"MALE","OH","250/500","Single Vehicle Collision","Minor Damage","Rear Collision","Fire",76700,"N",1,0,0.283018867924528
+62,"MALE","IL","100/300","Multi-vehicle Collision","Major Damage","Rear Collision","Fire",64350,"N",1,0,0.27930174563591
+39,"MALE","IL","250/500","Multi-vehicle Collision","Total Loss","Rear Collision","Ambulance",19080,"N",1,0,0.27930174563591
+43,"FEMALE","OH","500/1000","Single Vehicle Collision","Minor Damage","Rear Collision","Police",54400,"N",1,0,0.283018867924528
+32,"FEMALE","OH","100/300","Single Vehicle Collision","Total Loss","Rear Collision","Fire",59800,"Y",1,0,0.283018867924528
+29,"MALE","OH","500/1000","Multi-vehicle Collision","Major Damage","Side Collision","Police",72000,"N",1,0,0.27930174563591
+48,"MALE","IN","250/500","Multi-vehicle Collision","Total Loss","Side Collision","Police",65070,"N",1,0,0.27930174563591
+50,"MALE","OH","100/300","Multi-vehicle Collision","Minor Damage","Side Collision","Ambulance",34320,"N",1,0,0.27930174563591
+40,"FEMALE","OH","500/1000","Multi-vehicle Collision","Major Damage","Side Collision","Other",53460,"Y",1,0,0.27930174563591
+33,"FEMALE","IN","100/300","Single Vehicle Collision","Total Loss","Side Collision","Other",81360,"Y",1,0,0.283018867924528
+43,"MALE","OH","100/300","Multi-vehicle Collision","Minor Damage","Side Collision","Ambulance",81070,"Y",1,0,0.27930174563591
+26,"FEMALE","IL","100/300","Single Vehicle Collision","Minor Damage","Front Collision","Fire",63120,"N",1,0,0.283018867924528
+46,"FEMALE","IL","500/1000","Single Vehicle Collision","Total Loss","Rear Collision","Other",70290,"Y",1,0,0.283018867924528
+43,"MALE","OH","100/300","Multi-vehicle Collision","Minor Damage","Side Collision","Fire",60190,"N",1,0,0.27930174563591
+44,"MALE","OH","250/500","Single Vehicle Collision","Major Damage","Front Collision","Other",61380,"Y",1,0,0.283018867924528
+49,"FEMALE","OH","250/500","Single Vehicle Collision","Minor Damage","Front Collision","Ambulance",28100,"N",1,0,0.283018867924528
+50,"FEMALE","IL","500/1000","Single Vehicle Collision","Total Loss","Side Collision","Fire",49060,"N",1,0,0.283018867924528
+50,"MALE","IL","250/500","Multi-vehicle Collision","Total Loss","Side Collision","Fire",57060,"N",1,0,0.27930174563591
+38,"FEMALE","IN","100/300","Multi-vehicle Collision","Major Damage","Side Collision","Fire",77880,"N",1,0,0.27930174563591
+41,"MALE","IN","500/1000","Single Vehicle Collision","Total Loss","Front Collision","Ambulance",73500,"N",1,0,0.283018867924528
+52,"FEMALE","IL","500/1000","Single Vehicle Collision","Major Damage","Front Collision","Other",47630,"Y",1,0,0.283018867924528
+53,"FEMALE","IL","100/300","Multi-vehicle Collision","Total Loss","Front Collision","Fire",59040,"N",1,0,0.27930174563591
+37,"FEMALE","IL","250/500","Single Vehicle Collision","Minor Damage","Rear Collision","Other",79530,"N",1,0,0.283018867924528
+34,"FEMALE","OH","100/300","Single Vehicle Collision","Total Loss","Side Collision","Other",53680,"N",1,0,0.283018867924528
+46,"MALE","OH","500/1000","Single Vehicle Collision","Minor Damage","Side Collision","Police",33550,"N",1,0,0.283018867924528
+42,"FEMALE","IN","250/500","Multi-vehicle Collision","Total Loss","Side Collision","Other",69100,"N",1,0,0.27930174563591
+35,"MALE","IL","100/300","Multi-vehicle Collision","Major Damage","Rear Collision","Police",79750,"N",1,0,0.27930174563591
+28,"MALE","IN","100/300","Multi-vehicle Collision","Major Damage","Front Collision","Other",53600,"Y",1,0,0.27930174563591
+54,"MALE","IN","100/300","Multi-vehicle Collision","Minor Damage","Side Collision","Fire",76560,"N",1,0,0.27930174563591
+32,"MALE","IN","100/300","Single Vehicle Collision","Total Loss","Front Collision","Fire",41130,"N",1,0,0.283018867924528
+26,"MALE","IL","500/1000","Multi-vehicle Collision","Total Loss","Rear Collision","Fire",78650,"Y",1,0,0.27930174563591
+41,"FEMALE","OH","500/1000","Single Vehicle Collision","Major Damage","Side Collision","Other",71060,"N",1,0,0.283018867924528
+37,"FEMALE","IN","500/1000","Single Vehicle Collision","Minor Damage","Front Collision","Fire",38830,"N",1,0,0.283018867924528
+43,"FEMALE","IL","250/500","Single Vehicle Collision","Major Damage","Front Collision","Fire",53500,"N",1,0,0.283018867924528
+38,"FEMALE","IL","100/300","Single Vehicle Collision","Major Damage","Front Collision","Other",73700,"Y",1,0,0.283018867924528
+36,"FEMALE","IL","100/300","Multi-vehicle Collision","Total Loss","Rear Collision","Ambulance",65400,"N",1,0,0.27930174563591
+51,"FEMALE","IN","500/1000","Single Vehicle Collision","Major Damage","Rear Collision","Fire",75400,"Y",1,0,0.283018867924528
+28,"FEMALE","IL","250/500","Single Vehicle Collision","Minor Damage","Side Collision","Fire",58140,"N",1,0,0.283018867924528
+30,"FEMALE","IN","250/500","Single Vehicle Collision","Major Damage","Rear Collision","Fire",64100,"N",1,0,0.283018867924528
+28,"FEMALE","OH","250/500","Multi-vehicle Collision","Total Loss","Rear Collision","Fire",55440,"Y",1,0,0.27930174563591
+27,"MALE","OH","250/500","Multi-vehicle Collision","Major Damage","Side Collision","Police",80850,"Y",1,0,0.27930174563591
+61,"MALE","OH","250/500","Single Vehicle Collision","Major Damage","Side Collision","Fire",53640,"Y",1,0,0.283018867924528
+23,"FEMALE","OH","500/1000","Multi-vehicle Collision","Major Damage","Rear Collision","Fire",63250,"Y",1,1,0.27930174563591
+57,"FEMALE","IL","100/300","Multi-vehicle Collision","Major Damage","Side Collision","Ambulance",59040,"N",1,0,0.27930174563591
+36,"MALE","IL","250/500","Multi-vehicle Collision","Total Loss","Side Collision","Other",50500,"N",1,0,0.27930174563591
+43,"MALE","OH","500/1000","Single Vehicle Collision","Major Damage","Side Collision","Police",57690,"Y",1,0,0.283018867924528
+30,"FEMALE","OH","250/500","Multi-vehicle Collision","Major Damage","Rear Collision","Fire",47790,"Y",1,0,0.27930174563591
+31,"MALE","IL","100/300","Single Vehicle Collision","Major Damage","Front Collision","Police",59000,"Y",1,0,0.283018867924528
+43,"MALE","OH","250/500","Multi-vehicle Collision","Major Damage","Rear Collision","Ambulance",70600,"Y",1,0,0.27930174563591
+40,"MALE","IN","500/1000","Multi-vehicle Collision","Minor Damage","Side Collision","Police",61490,"N",1,0,0.27930174563591
+30,"FEMALE","IL","500/1000","Single Vehicle Collision","Minor Damage","Side Collision","Police",57640,"N",1,0,0.283018867924528
+45,"MALE","IL","250/500","Multi-vehicle Collision","Major Damage","Side Collision","Fire",53280,"Y",1,0,0.27930174563591
+29,"FEMALE","IN","500/1000","Multi-vehicle Collision","Minor Damage","Rear Collision","Fire",78300,"N",1,0,0.27930174563591
+37,"MALE","OH","100/300","Multi-vehicle Collision","Major Damage","Rear Collision","Ambulance",41490,"N",1,0,0.27930174563591
+36,"FEMALE","IN","100/300","Multi-vehicle Collision","Total Loss","Front Collision","Fire",68970,"N",1,0,0.27930174563591
+55,"MALE","OH","250/500","Multi-vehicle Collision","Minor Damage","Rear Collision","Police",85300,"N",1,0,0.27930174563591
+47,"MALE","IL","100/300","Multi-vehicle Collision","Major Damage","Front Collision","Police",71760,"Y",1,0,0.27930174563591
+26,"FEMALE","OH","100/300","Multi-vehicle Collision","Minor Damage","Rear Collision","Ambulance",59700,"N",1,0,0.27930174563591
+39,"FEMALE","IL","500/1000","Multi-vehicle Collision","Minor Damage","Front Collision","Fire",64920,"N",1,0,0.27930174563591
+43,"FEMALE","IN","500/1000","Multi-vehicle Collision","Major Damage","Front Collision","Ambulance",37530,"N",1,0,0.27930174563591
+42,"MALE","IN","250/500","Multi-vehicle Collision","Total Loss","Side Collision","Ambulance",64080,"N",1,0,0.27930174563591
+41,"MALE","OH","100/300","Single Vehicle Collision","Minor Damage","Rear Collision","Other",60390,"Y",1,0,0.283018867924528
+33,"FEMALE","IL","100/300","Multi-vehicle Collision","Major Damage","Side Collision","Police",64350,"Y",1,0,0.27930174563591
+38,"FEMALE","IL","100/300","Multi-vehicle Collision","Minor Damage","Side Collision","Police",70900,"N",1,0,0.27930174563591
+39,"FEMALE","OH","250/500","Multi-vehicle Collision","Minor Damage","Side Collision","Fire",46560,"N",1,0,0.27930174563591
+58,"MALE","OH","250/500","Single Vehicle Collision","Major Damage","Rear Collision","Police",59900,"Y",1,0,0.283018867924528
+36,"FEMALE","OH","250/500","Multi-vehicle Collision","Major Damage","Side Collision","Police",79560,"N",1,0,0.27930174563591
+33,"FEMALE","IL","500/1000","Single Vehicle Collision","Total Loss","Front Collision","Other",70290,"N",1,0,0.283018867924528
+31,"MALE","IN","100/300","Multi-vehicle Collision","Total Loss","Rear Collision","Ambulance",63910,"N",1,0,0.27930174563591
+25,"FEMALE","IN","250/500","Single Vehicle Collision","Major Damage","Rear Collision","Ambulance",66780,"Y",1,0,0.283018867924528
+40,"MALE","IL","250/500","Multi-vehicle Collision","Total Loss","Front Collision","Ambulance",51570,"N",1,0,0.27930174563591
+31,"FEMALE","IL","250/500","Multi-vehicle Collision","Major Damage","Rear Collision","Fire",52700,"Y",1,0,0.27930174563591
+37,"MALE","IN","250/500","Multi-vehicle Collision","Minor Damage","Rear Collision","Police",53400,"Y",1,0,0.27930174563591
+31,"FEMALE","IN","250/500","Single Vehicle Collision","Total Loss","Side Collision","Fire",72120,"N",1,0,0.283018867924528
+43,"MALE","IL","250/500","Multi-vehicle Collision","Minor Damage","Front Collision","Police",77100,"N",1,0,0.27930174563591
+27,"MALE","IN","250/500","Multi-vehicle Collision","Major Damage","Rear Collision","Other",63720,"N",1,0,0.27930174563591
+44,"MALE","IL","100/300","Multi-vehicle Collision","Major Damage","Rear Collision","Police",87300,"N",1,0,0.27930174563591
+47,"MALE","IN","250/500","Multi-vehicle Collision","Minor Damage","Rear Collision","Other",65800,"N",1,0,0.27930174563591
+34,"FEMALE","OH","100/300","Single Vehicle Collision","Major Damage","Front Collision","Other",36720,"Y",1,0,0.283018867924528
+29,"FEMALE","IL","250/500","Single Vehicle Collision","Major Damage","Side Collision","Fire",52800,"Y",1,0,0.283018867924528
+37,"FEMALE","IN","250/500","Multi-vehicle Collision","Total Loss","Rear Collision","Fire",59100,"Y",1,0,0.27930174563591
+37,"MALE","OH","500/1000","Multi-vehicle Collision","Total Loss","Rear Collision","Other",77440,"N",1,0,0.27930174563591
+36,"MALE","IL","250/500","Multi-vehicle Collision","Total Loss","Side Collision","Fire",45700,"N",1,0,0.27930174563591
+41,"FEMALE","OH","100/300","Multi-vehicle Collision","Major Damage","Rear Collision","Other",80740,"Y",1,0,0.27930174563591
+26,"MALE","IN","100/300","Multi-vehicle Collision","Major Damage","Front Collision","Ambulance",31350,"Y",1,0,0.27930174563591
+33,"FEMALE","OH","100/300","Single Vehicle Collision","Total Loss","Side Collision","Other",35000,"N",1,0,0.283018867924528
+59,"MALE","OH","500/1000","Multi-vehicle Collision","Total Loss","Side Collision","Police",68000,"N",1,0,0.27930174563591
+30,"FEMALE","IL","250/500","Multi-vehicle Collision","Minor Damage","Side Collision","Other",84500,"N",1,0,0.27930174563591
+42,"FEMALE","IL","500/1000","Single Vehicle Collision","Minor Damage","Rear Collision","Police",75500,"N",1,0,0.283018867924528
+45,"FEMALE","IN","500/1000","Multi-vehicle Collision","Total Loss","Side Collision","Ambulance",64320,"N",1,0,0.27930174563591
+33,"FEMALE","IL","250/500","Multi-vehicle Collision","Minor Damage","Rear Collision","Police",31700,"N",1,0,0.27930174563591
+30,"MALE","IN","500/1000","Single Vehicle Collision","Major Damage","Side Collision","Other",74280,"Y",1,0,0.283018867924528
+37,"FEMALE","IL","100/300","Single Vehicle Collision","Total Loss","Front Collision","Fire",80520,"N",1,0,0.283018867924528
+30,"MALE","IN","250/500","Multi-vehicle Collision","Major Damage","Rear Collision","Other",63600,"N",1,0,0.27930174563591
+44,"MALE","IL","250/500","Single Vehicle Collision","Total Loss","Front Collision","Police",32800,"N",1,0,0.283018867924528
+50,"FEMALE","OH","500/1000","Multi-vehicle Collision","Total Loss","Rear Collision","Police",44190,"N",1,0,0.27930174563591
+26,"MALE","IL","250/500","Multi-vehicle Collision","Major Damage","Rear Collision","Other",50400,"Y",1,0,0.27930174563591
+55,"MALE","IL","500/1000","Multi-vehicle Collision","Total Loss","Side Collision","Police",88400,"N",1,0,0.27930174563591
+49,"FEMALE","IL","100/300","Multi-vehicle Collision","Total Loss","Front Collision","Fire",66550,"N",1,0,0.27930174563591
+47,"MALE","IN","100/300","Multi-vehicle Collision","Minor Damage","Rear Collision","Police",65780,"N",1,0,0.27930174563591
+40,"MALE","IN","250/500","Multi-vehicle Collision","Major Damage","Side Collision","Other",51810,"Y",1,0,0.27930174563591
+31,"MALE","IN","250/500","Single Vehicle Collision","Major Damage","Front Collision","Other",55660,"Y",1,0,0.283018867924528
+28,"MALE","OH","500/1000","Single Vehicle Collision","Major Damage","Side Collision","Fire",44640,"N",1,0,0.283018867924528
+46,"FEMALE","IL","500/1000","Multi-vehicle Collision","Major Damage","Front Collision","Ambulance",77660,"Y",1,0,0.27930174563591
+30,"MALE","OH","100/300","Single Vehicle Collision","Total Loss","Side Collision","Fire",53440,"N",1,0,0.283018867924528
+31,"FEMALE","IL","500/1000","Single Vehicle Collision","Minor Damage","Rear Collision","Police",65250,"N",1,0,0.283018867924528
+39,"MALE","OH","250/500","Multi-vehicle Collision","Minor Damage","Side Collision","Fire",44280,"N",1,0,0.27930174563591
+37,"MALE","IL","500/1000","Single Vehicle Collision","Total Loss","Rear Collision","Police",70290,"N",1,0,0.283018867924528
+30,"FEMALE","IN","250/500","Single Vehicle Collision","Minor Damage","Front Collision","Other",87100,"N",1,0,0.283018867924528
+35,"MALE","IN","500/1000","Multi-vehicle Collision","Total Loss","Front Collision","Fire",50380,"N",1,0,0.27930174563591
+45,"FEMALE","IL","100/300","Multi-vehicle Collision","Total Loss","Side Collision","Police",64800,"Y",1,0,0.27930174563591
+42,"FEMALE","OH","100/300","Single Vehicle Collision","Minor Damage","Rear Collision","Other",70400,"N",1,0,0.283018867924528
+26,"MALE","IL","250/500","Single Vehicle Collision","Major Damage","Rear Collision","Police",57860,"Y",1,0,0.283018867924528
+38,"FEMALE","IN","100/300","Single Vehicle Collision","Total Loss","Rear Collision","Police",66600,"Y",1,0,0.283018867924528
+28,"MALE","IN","100/300","Single Vehicle Collision","Minor Damage","Side Collision","Police",70920,"N",1,0,0.283018867924528
+56,"MALE","OH","250/500","Single Vehicle Collision","Minor Damage","Rear Collision","Ambulance",39480,"N",1,0,0.283018867924528
+43,"FEMALE","IN","500/1000","Single Vehicle Collision","Total Loss","Front Collision","Other",63240,"N",1,0,0.283018867924528
+34,"MALE","IL","100/300","Multi-vehicle Collision","Total Loss","Side Collision","Other",67650,"N",1,0,0.27930174563591
+39,"FEMALE","IL","100/300","Single Vehicle Collision","Major Damage","Front Collision","Fire",74200,"Y",1,0,0.283018867924528
+43,"FEMALE","OH","500/1000","Single Vehicle Collision","Minor Damage","Side Collision","Other",64900,"N",1,0,0.283018867924528
+44,"FEMALE","IL","500/1000","Multi-vehicle Collision","Major Damage","Rear Collision","Ambulance",35900,"Y",1,0,0.27930174563591
+26,"FEMALE","IN","100/300","Single Vehicle Collision","Minor Damage","Rear Collision","Fire",52200,"N",1,0,0.283018867924528
+57,"MALE","OH","100/300","Single Vehicle Collision","Minor Damage","Front Collision","Police",78000,"N",1,0,0.283018867924528
+27,"FEMALE","IN","500/1000","Multi-vehicle Collision","Minor Damage","Front Collision","Ambulance",67200,"N",1,0,0.27930174563591
+43,"FEMALE","OH","100/300","Single Vehicle Collision","Total Loss","Rear Collision","Fire",63250,"N",1,0,0.283018867924528
+37,"FEMALE","IL","250/500","Multi-vehicle Collision","Major Damage","Side Collision","Other",68760,"N",1,0,0.27930174563591
+28,"MALE","OH","250/500","Multi-vehicle Collision","Minor Damage","Side Collision","Police",65040,"N",1,0,0.27930174563591
+33,"MALE","IL","100/300","Single Vehicle Collision","Major Damage","Side Collision","Ambulance",82800,"Y",1,0,0.283018867924528
+44,"MALE","OH","500/1000","Single Vehicle Collision","Total Loss","Side Collision","Other",61700,"N",1,0,0.283018867924528
+61,"FEMALE","IN","250/500","Multi-vehicle Collision","Major Damage","Rear Collision","Ambulance",78100,"Y",1,0,0.27930174563591
+24,"FEMALE","IN","100/300","Multi-vehicle Collision","Major Damage","Rear Collision","Ambulance",65520,"Y",1,1,0.27930174563591
+41,"FEMALE","OH","100/300","Multi-vehicle Collision","Major Damage","Side Collision","Other",42700,"Y",1,0,0.27930174563591
+47,"FEMALE","OH","500/1000","Single Vehicle Collision","Minor Damage","Front Collision","Ambulance",54000,"N",1,0,0.283018867924528
+19,"FEMALE","IN","250/500","Single Vehicle Collision","Minor Damage","Side Collision","Police",48950,"Y",1,1,0.283018867924528
+47,"MALE","IL","500/1000","Multi-vehicle Collision","Major Damage","Rear Collision","Other",77800,"N",1,0,0.27930174563591
+57,"MALE","IN","100/300","Multi-vehicle Collision","Major Damage","Front Collision","Other",52560,"N",1,0,0.27930174563591
+41,"FEMALE","OH","500/1000","Multi-vehicle Collision","Total Loss","Side Collision","Police",44110,"N",1,0,0.27930174563591
+30,"FEMALE","IL","500/1000","Single Vehicle Collision","Total Loss","Front Collision","Other",74360,"N",1,0,0.283018867924528
+53,"MALE","IL","500/1000","Multi-vehicle Collision","Minor Damage","Side Collision","Police",62280,"N",1,0,0.27930174563591
+44,"FEMALE","IL","250/500","Multi-vehicle Collision","Total Loss","Front Collision","Other",26730,"N",1,0,0.27930174563591
+29,"FEMALE","OH","500/1000","Single Vehicle Collision","Major Damage","Rear Collision","Ambulance",66200,"N",1,0,0.283018867924528
+26,"MALE","OH","100/300","Single Vehicle Collision","Total Loss","Side Collision","Fire",45500,"N",1,0,0.283018867924528
+41,"MALE","IN","100/300","Multi-vehicle Collision","Minor Damage","Side Collision","Ambulance",53040,"N",1,0,0.27930174563591
+32,"MALE","OH","100/300","Multi-vehicle Collision","Major Damage","Front Collision","Other",50800,"Y",1,0,0.27930174563591
+41,"FEMALE","IN","250/500","Multi-vehicle Collision","Total Loss","Side Collision","Police",44200,"N",1,0,0.27930174563591
+34,"FEMALE","IL","500/1000","Single Vehicle Collision","Minor Damage","Front Collision","Police",62920,"N",1,0,0.283018867924528
+29,"MALE","OH","250/500","Multi-vehicle Collision","Minor Damage","Rear Collision","Other",49950,"Y",1,0,0.27930174563591
+46,"MALE","IL","250/500","Single Vehicle Collision","Minor Damage","Rear Collision","Ambulance",56430,"Y",1,0,0.283018867924528
+30,"MALE","OH","500/1000","Multi-vehicle Collision","Minor Damage","Front Collision","Fire",49140,"N",1,0,0.27930174563591
+38,"FEMALE","OH","250/500","Single Vehicle Collision","Major Damage","Side Collision","Ambulance",66840,"N",1,0,0.283018867924528
+21,"MALE","IN","500/1000","Single Vehicle Collision","Total Loss","Front Collision","Other",62460,"N",1,1,0.283018867924528
+36,"MALE","OH","100/300","Multi-vehicle Collision","Total Loss","Side Collision","Other",62810,"N",1,0,0.27930174563591
+33,"FEMALE","OH","500/1000","Single Vehicle Collision","Major Damage","Front Collision","Ambulance",54160,"N",1,0,0.283018867924528
+35,"FEMALE","IL","100/300","Single Vehicle Collision","Major Damage","Rear Collision","Ambulance",48400,"N",1,0,0.283018867924528
+48,"MALE","IN","250/500","Multi-vehicle Collision","Total Loss","Side Collision","Fire",51480,"N",1,0,0.27930174563591
+36,"FEMALE","OH","100/300","Multi-vehicle Collision","Total Loss","Rear Collision","Fire",51700,"N",1,0,0.27930174563591
+58,"MALE","OH","250/500","Multi-vehicle Collision","Total Loss","Front Collision","Other",65520,"N",1,0,0.27930174563591
+31,"MALE","IN","500/1000","Multi-vehicle Collision","Major Damage","Rear Collision","Other",47700,"Y",1,0,0.27930174563591
+57,"MALE","IN","100/300","Single Vehicle Collision","Major Damage","Side Collision","Other",73320,"N",1,0,0.283018867924528
+46,"MALE","IN","100/300","Single Vehicle Collision","Minor Damage","Front Collision","Fire",74900,"N",1,0,0.283018867924528
+33,"MALE","IN","100/300","Single Vehicle Collision","Minor Damage","Rear Collision","Ambulance",76920,"N",1,0,0.283018867924528
+53,"FEMALE","OH","250/500","Multi-vehicle Collision","Total Loss","Front Collision","Police",77990,"N",1,0,0.27930174563591
+46,"MALE","IL","500/1000","Single Vehicle Collision","Total Loss","Front Collision","Fire",59670,"N",1,0,0.283018867924528
+33,"FEMALE","IN","100/300","Multi-vehicle Collision","Major Damage","Rear Collision","Ambulance",44880,"Y",1,0,0.27930174563591
+51,"MALE","IN","100/300","Single Vehicle Collision","Minor Damage","Side Collision","Ambulance",82830,"N",1,0,0.283018867924528
+60,"FEMALE","OH","500/1000","Single Vehicle Collision","Minor Damage","Front Collision","Other",84480,"Y",1,0,0.283018867924528
+30,"FEMALE","IN","100/300","Multi-vehicle Collision","Total Loss","Side Collision","Fire",79800,"N",1,0,0.27930174563591
+41,"MALE","OH","500/1000","Multi-vehicle Collision","Minor Damage","Rear Collision","Police",53020,"N",1,0,0.27930174563591
+45,"FEMALE","IN","500/1000","Multi-vehicle Collision","Total Loss","Side Collision","Police",24200,"N",1,0,0.27930174563591
+40,"MALE","OH","250/500","Single Vehicle Collision","Minor Damage","Rear Collision","Fire",43230,"N",1,0,0.283018867924528
+44,"FEMALE","OH","250/500","Multi-vehicle Collision","Minor Damage","Front Collision","Fire",69480,"N",1,0,0.27930174563591
+32,"FEMALE","OH","500/1000","Single Vehicle Collision","Total Loss","Front Collision","Other",61270,"N",1,0,0.283018867924528
+49,"FEMALE","OH","500/1000","Single Vehicle Collision","Total Loss","Rear Collision","Police",71440,"N",1,0,0.283018867924528
+37,"FEMALE","OH","250/500","Single Vehicle Collision","Total Loss","Rear Collision","Ambulance",55600,"N",1,0,0.283018867924528
+41,"FEMALE","IN","100/300","Single Vehicle Collision","Major Damage","Rear Collision","Ambulance",69300,"N",1,0,0.283018867924528
+37,"MALE","IN","250/500","Single Vehicle Collision","Total Loss","Front Collision","Ambulance",81120,"N",1,0,0.283018867924528
+48,"FEMALE","IN","100/300","Single Vehicle Collision","Minor Damage","Side Collision","Fire",60600,"N",1,0,0.283018867924528
+31,"MALE","IN","500/1000","Multi-vehicle Collision","Major Damage","Front Collision","Ambulance",64800,"Y",1,0,0.27930174563591
+34,"FEMALE","OH","500/1000","Multi-vehicle Collision","Major Damage","Side Collision","Police",66880,"Y",1,0,0.27930174563591
+35,"MALE","IL","500/1000","Single Vehicle Collision","Total Loss","Front Collision","Ambulance",58200,"N",1,0,0.283018867924528
+31,"FEMALE","IN","100/300","Single Vehicle Collision","Minor Damage","Side Collision","Police",60570,"N",1,0,0.283018867924528
+36,"FEMALE","IL","100/300","Multi-vehicle Collision","Major Damage","Rear Collision","Ambulance",69680,"Y",1,0,0.27930174563591
+58,"MALE","IN","500/1000","Single Vehicle Collision","Total Loss","Front Collision","Fire",55700,"N",1,0,0.283018867924528
+47,"FEMALE","IN","250/500","Multi-vehicle Collision","Total Loss","Front Collision","Ambulance",62370,"N",1,0,0.27930174563591
+45,"FEMALE","OH","500/1000","Multi-vehicle Collision","Total Loss","Side Collision","Other",54340,"N",1,0,0.27930174563591
+48,"FEMALE","OH","100/300","Single Vehicle Collision","Major Damage","Front Collision","Police",55170,"Y",1,0,0.283018867924528
+34,"MALE","IL","100/300","Single Vehicle Collision","Minor Damage","Front Collision","Other",58500,"N",1,0,0.283018867924528
+32,"MALE","OH","100/300","Single Vehicle Collision","Major Damage","Rear Collision","Fire",59940,"N",1,0,0.283018867924528
+28,"MALE","OH","250/500","Single Vehicle Collision","Total Loss","Side Collision","Police",73400,"N",1,0,0.283018867924528
+23,"MALE","IL","100/300","Single Vehicle Collision","Major Damage","Side Collision","Fire",41850,"N",1,1,0.283018867924528
+31,"MALE","IN","500/1000","Single Vehicle Collision","Total Loss","Rear Collision","Fire",57330,"N",1,0,0.283018867924528
+50,"MALE","OH","100/300","Multi-vehicle Collision","Total Loss","Front Collision","Other",81960,"N",1,0,0.27930174563591
+33,"FEMALE","IN","250/500","Single Vehicle Collision","Major Damage","Side Collision","Fire",70400,"Y",1,0,0.283018867924528
+52,"FEMALE","IN","500/1000","Single Vehicle Collision","Total Loss","Rear Collision","Police",54810,"Y",1,0,0.283018867924528
+37,"FEMALE","IN","250/500","Single Vehicle Collision","Total Loss","Rear Collision","Fire",49400,"N",1,0,0.283018867924528
+53,"MALE","IL","250/500","Single Vehicle Collision","Minor Damage","Front Collision","Fire",68750,"N",1,0,0.283018867924528
+32,"FEMALE","OH","100/300","Single Vehicle Collision","Total Loss","Front Collision","Ambulance",61500,"N",1,0,0.283018867924528
+39,"FEMALE","IL","100/300","Multi-vehicle Collision","Major Damage","Rear Collision","Ambulance",76890,"N",1,0,0.27930174563591
+32,"FEMALE","OH","100/300","Single Vehicle Collision","Minor Damage","Rear Collision","Ambulance",56070,"N",1,0,0.283018867924528
+30,"FEMALE","IN","100/300","Single Vehicle Collision","Total Loss","Side Collision","Fire",56000,"N",1,0,0.283018867924528
+37,"FEMALE","IL","250/500","Multi-vehicle Collision","Total Loss","Rear Collision","Other",60750,"N",1,0,0.27930174563591
+30,"FEMALE","IL","250/500","Single Vehicle Collision","Minor Damage","Side Collision","Other",48730,"N",1,0,0.283018867924528
+28,"MALE","IL","100/300","Single Vehicle Collision","Major Damage","Side Collision","Ambulance",79800,"Y",1,0,0.283018867924528
+38,"FEMALE","IN","500/1000","Single Vehicle Collision","Minor Damage","Side Collision","Ambulance",79500,"N",1,0,0.283018867924528
+44,"FEMALE","OH","250/500","Single Vehicle Collision","Minor Damage","Rear Collision","Other",76230,"Y",1,0,0.283018867924528
+54,"MALE","IL","100/300","Single Vehicle Collision","Minor Damage","Side Collision","Ambulance",59520,"N",1,0,0.283018867924528
+57,"FEMALE","IL","100/300","Multi-vehicle Collision","Major Damage","Front Collision","Police",47760,"Y",1,0,0.27930174563591
+41,"MALE","IL","100/300","Multi-vehicle Collision","Total Loss","Side Collision","Police",84590,"N",1,0,0.27930174563591
+38,"MALE","OH","500/1000","Multi-vehicle Collision","Total Loss","Front Collision","Other",61650,"N",1,0,0.27930174563591
+33,"FEMALE","IL","500/1000","Single Vehicle Collision","Major Damage","Rear Collision","Police",81400,"N",1,0,0.283018867924528
+34,"FEMALE","IN","100/300","Multi-vehicle Collision","Major Damage","Side Collision","Fire",58410,"N",1,0,0.27930174563591
+56,"FEMALE","IL","250/500","Multi-vehicle Collision","Major Damage","Side Collision","Ambulance",38610,"N",1,0,0.27930174563591
+37,"FEMALE","OH","100/300","Multi-vehicle Collision","Minor Damage","Front Collision","Fire",57600,"N",1,0,0.27930174563591
+35,"FEMALE","IL","100/300","Multi-vehicle Collision","Minor Damage","Side Collision","Fire",53190,"N",1,0,0.27930174563591
+57,"FEMALE","OH","100/300","Single Vehicle Collision","Major Damage","Front Collision","Other",58300,"Y",1,0,0.283018867924528
+38,"MALE","IL","500/1000","Multi-vehicle Collision","Minor Damage","Front Collision","Ambulance",64620,"N",1,0,0.27930174563591
+36,"FEMALE","OH","500/1000","Multi-vehicle Collision","Total Loss","Side Collision","Police",55900,"N",1,0,0.27930174563591
+29,"MALE","IL","250/500","Single Vehicle Collision","Major Damage","Rear Collision","Other",63800,"Y",1,0,0.283018867924528
+56,"MALE","OH","100/300","Single Vehicle Collision","Total Loss","Side Collision","Police",58160,"Y",1,0,0.283018867924528
+44,"MALE","IL","100/300","Multi-vehicle Collision","Major Damage","Rear Collision","Fire",69850,"N",1,0,0.27930174563591
+21,"FEMALE","OH","250/500","Single Vehicle Collision","Minor Damage","Rear Collision","Fire",62900,"N",1,1,0.283018867924528
+30,"MALE","IN","500/1000","Multi-vehicle Collision","Major Damage","Front Collision","Other",59670,"Y",1,0,0.27930174563591
+40,"MALE","IL","100/300","Multi-vehicle Collision","Minor Damage","Rear Collision","Other",81500,"N",1,0,0.27930174563591
+56,"MALE","OH","100/300","Single Vehicle Collision","Minor Damage","Rear Collision","Ambulance",50000,"N",1,0,0.283018867924528
+28,"MALE","IN","100/300","Single Vehicle Collision","Total Loss","Front Collision","Other",48290,"N",1,0,0.283018867924528
+29,"MALE","OH","500/1000","Single Vehicle Collision","Total Loss","Rear Collision","Fire",59070,"N",1,0,0.283018867924528
+24,"FEMALE","IN","500/1000","Multi-vehicle Collision","Minor Damage","Rear Collision","Police",63300,"N",1,1,0.27930174563591
+46,"MALE","IL","100/300","Single Vehicle Collision","Total Loss","Side Collision","Other",65780,"N",1,0,0.283018867924528
+29,"MALE","OH","250/500","Multi-vehicle Collision","Total Loss","Front Collision","Ambulance",75400,"Y",1,0,0.27930174563591
+39,"FEMALE","IL","100/300","Multi-vehicle Collision","Minor Damage","Front Collision","Ambulance",54120,"N",1,0,0.27930174563591
+49,"MALE","OH","250/500","Multi-vehicle Collision","Major Damage","Side Collision","Other",69480,"N",1,0,0.27930174563591
+43,"FEMALE","IN","100/300","Single Vehicle Collision","Minor Damage","Rear Collision","Police",66950,"N",1,0,0.283018867924528
+47,"FEMALE","OH","250/500","Multi-vehicle Collision","Major Damage","Rear Collision","Other",64100,"Y",1,0,0.27930174563591
+46,"MALE","IN","100/300","Single Vehicle Collision","Minor Damage","Rear Collision","Other",80280,"N",1,0,0.283018867924528
+32,"MALE","OH","500/1000","Multi-vehicle Collision","Minor Damage","Rear Collision","Ambulance",39720,"N",1,0,0.27930174563591
+58,"MALE","IL","250/500","Single Vehicle Collision","Major Damage","Front Collision","Police",63580,"Y",1,0,0.283018867924528
+49,"FEMALE","IN","100/300","Single Vehicle Collision","Minor Damage","Side Collision","Other",73370,"N",1,0,0.283018867924528
+29,"FEMALE","OH","500/1000","Single Vehicle Collision","Minor Damage","Side Collision","Police",86790,"N",1,0,0.283018867924528
+39,"MALE","IN","250/500","Single Vehicle Collision","Major Damage","Side Collision","Police",49800,"N",1,0,0.283018867924528
+38,"FEMALE","IL","100/300","Single Vehicle Collision","Major Damage","Side Collision","Other",77440,"N",1,0,0.283018867924528
+48,"FEMALE","IL","500/1000","Single Vehicle Collision","Total Loss","Front Collision","Other",42900,"N",1,0,0.283018867924528
+26,"FEMALE","OH","100/300","Multi-vehicle Collision","Major Damage","Rear Collision","Fire",53820,"Y",1,0,0.27930174563591
+46,"MALE","IL","100/300","Single Vehicle Collision","Minor Damage","Rear Collision","Police",57330,"N",1,0,0.283018867924528
+24,"FEMALE","IL","500/1000","Multi-vehicle Collision","Minor Damage","Rear Collision","Police",53370,"N",1,1,0.27930174563591
+29,"MALE","IL","100/300","Single Vehicle Collision","Minor Damage","Front Collision","Police",62920,"N",1,0,0.283018867924528
+24,"FEMALE","IN","500/1000","Multi-vehicle Collision","Total Loss","Front Collision","Fire",61600,"N",1,1,0.27930174563591
+30,"MALE","IL","500/1000","Multi-vehicle Collision","Total Loss","Rear Collision","Police",74160,"N",1,0,0.27930174563591
+38,"MALE","OH","250/500","Single Vehicle Collision","Total Loss","Rear Collision","Police",80100,"N",1,0,0.283018867924528
+34,"MALE","IL","250/500","Single Vehicle Collision","Total Loss","Rear Collision","Ambulance",58800,"N",1,0,0.283018867924528
+38,"FEMALE","IL","250/500","Multi-vehicle Collision","Minor Damage","Side Collision","Ambulance",53730,"Y",1,0,0.27930174563591
+60,"FEMALE","IL","100/300","Single Vehicle Collision","Total Loss","Rear Collision","Ambulance",60600,"N",1,0,0.283018867924528
+48,"FEMALE","OH","250/500","Single Vehicle Collision","Total Loss","Side Collision","Other",35750,"N",1,0,0.283018867924528
+27,"FEMALE","IN","100/300","Single Vehicle Collision","Total Loss","Front Collision","Ambulance",42840,"N",1,0,0.283018867924528
+39,"MALE","IL","250/500","Multi-vehicle Collision","Major Damage","Front Collision","Fire",87960,"Y",1,0,0.27930174563591
+41,"MALE","IL","250/500","Multi-vehicle Collision","Minor Damage","Rear Collision","Ambulance",47800,"N",1,0,0.27930174563591
+43,"MALE","IN","100/300","Single Vehicle Collision","Total Loss","Front Collision","Fire",77000,"N",1,0,0.283018867924528
+26,"FEMALE","IL","250/500","Single Vehicle Collision","Total Loss","Rear Collision","Ambulance",88110,"N",1,0,0.283018867924528
+42,"MALE","IN","100/300","Multi-vehicle Collision","Minor Damage","Rear Collision","Fire",47740,"N",1,0,0.27930174563591
+30,"FEMALE","OH","100/300","Multi-vehicle Collision","Total Loss","Rear Collision","Fire",58960,"N",1,0,0.27930174563591
+45,"FEMALE","IL","100/300","Multi-vehicle Collision","Major Damage","Side Collision","Ambulance",78870,"N",1,0,0.27930174563591
+54,"FEMALE","IL","100/300","Single Vehicle Collision","Total Loss","Front Collision","Ambulance",75960,"N",1,0,0.283018867924528
+34,"FEMALE","IN","250/500","Single Vehicle Collision","Major Damage","Front Collision","Police",75570,"Y",1,0,0.283018867924528
+53,"FEMALE","IN","100/300","Single Vehicle Collision","Major Damage","Front Collision","Ambulance",80960,"N",1,0,0.283018867924528
+38,"MALE","IL","100/300","Multi-vehicle Collision","Total Loss","Front Collision","Other",79080,"N",1,0,0.27930174563591
+42,"FEMALE","OH","100/300","Multi-vehicle Collision","Total Loss","Rear Collision","Fire",62590,"N",1,0,0.27930174563591
+23,"FEMALE","OH","250/500","Single Vehicle Collision","Major Damage","Side Collision","Other",52400,"Y",1,1,0.283018867924528
+46,"MALE","IL","250/500","Multi-vehicle Collision","Major Damage","Front Collision","Ambulance",63580,"N",1,0,0.27930174563591
+55,"FEMALE","IL","250/500","Multi-vehicle Collision","Minor Damage","Side Collision","Police",61400,"N",1,0,0.27930174563591
+44,"FEMALE","IN","250/500","Single Vehicle Collision","Total Loss","Front Collision","Fire",74140,"N",1,0,0.283018867924528
+30,"FEMALE","OH","500/1000","Single Vehicle Collision","Major Damage","Front Collision","Other",83160,"N",1,0,0.283018867924528
+31,"FEMALE","IL","100/300","Multi-vehicle Collision","Major Damage","Rear Collision","Police",48070,"N",1,0,0.27930174563591
+25,"FEMALE","OH","100/300","Multi-vehicle Collision","Minor Damage","Rear Collision","Ambulance",51030,"N",1,0,0.27930174563591
+40,"MALE","IN","100/300","Single Vehicle Collision","Minor Damage","Front Collision","Fire",43280,"Y",1,0,0.283018867924528
+29,"FEMALE","IN","250/500","Single Vehicle Collision","Major Damage","Front Collision","Fire",76400,"N",1,0,0.283018867924528
+43,"MALE","IN","100/300","Single Vehicle Collision","Total Loss","Side Collision","Ambulance",75460,"N",1,0,0.283018867924528
+50,"MALE","OH","100/300","Multi-vehicle Collision","Major Damage","Side Collision","Other",69000,"Y",1,0,0.27930174563591
+29,"MALE","OH","250/500","Multi-vehicle Collision","Minor Damage","Rear Collision","Ambulance",67210,"N",1,0,0.27930174563591
+37,"MALE","IN","500/1000","Multi-vehicle Collision","Total Loss","Side Collision","Ambulance",42500,"N",1,0,0.27930174563591
+53,"MALE","OH","100/300","Single Vehicle Collision","Minor Damage","Rear Collision","Fire",86400,"N",1,0,0.283018867924528
+40,"FEMALE","IL","100/300","Multi-vehicle Collision","Minor Damage","Side Collision","Other",41700,"N",1,0,0.27930174563591
+51,"MALE","IL","100/300","Single Vehicle Collision","Major Damage","Rear Collision","Other",77330,"Y",1,0,0.283018867924528
+35,"FEMALE","IL","100/300","Multi-vehicle Collision","Total Loss","Side Collision","Fire",24570,"Y",1,0,0.27930174563591
+38,"FEMALE","IN","100/300","Multi-vehicle Collision","Minor Damage","Rear Collision","Ambulance",53680,"N",1,0,0.27930174563591
+49,"MALE","IN","500/1000","Multi-vehicle Collision","Total Loss","Side Collision","Police",42900,"N",1,0,0.27930174563591
+41,"MALE","OH","250/500","Single Vehicle Collision","Minor Damage","Front Collision","Fire",84100,"Y",1,0,0.283018867924528
+27,"FEMALE","IN","100/300","Single Vehicle Collision","Total Loss","Front Collision","Fire",61560,"N",1,0,0.283018867924528
+39,"FEMALE","IN","500/1000","Single Vehicle Collision","Minor Damage","Rear Collision","Police",44240,"N",1,0,0.283018867924528
+33,"FEMALE","IN","500/1000","Multi-vehicle Collision","Minor Damage","Rear Collision","Ambulance",57700,"N",1,0,0.27930174563591
+30,"FEMALE","IN","100/300","Single Vehicle Collision","Minor Damage","Rear Collision","Fire",54300,"N",1,0,0.283018867924528
+54,"MALE","IN","100/300","Multi-vehicle Collision","Major Damage","Front Collision","Ambulance",32280,"Y",1,0,0.27930174563591
+42,"MALE","IN","250/500","Multi-vehicle Collision","Total Loss","Rear Collision","Other",84600,"N",1,0,0.27930174563591
+35,"MALE","IL","250/500","Single Vehicle Collision","Total Loss","Front Collision","Other",69700,"N",1,0,0.283018867924528
+33,"MALE","OH","100/300","Multi-vehicle Collision","Total Loss","Rear Collision","Ambulance",36400,"N",1,0,0.27930174563591
+39,"FEMALE","OH","250/500","Multi-vehicle Collision","Minor Damage","Side Collision","Police",37520,"N",1,0,0.27930174563591
+33,"FEMALE","OH","500/1000","Multi-vehicle Collision","Major Damage","Side Collision","Ambulance",79090,"N",1,0,0.27930174563591
+54,"MALE","OH","250/500","Single Vehicle Collision","Major Damage","Rear Collision","Other",67770,"Y",1,0,0.283018867924528
+32,"MALE","OH","100/300","Single Vehicle Collision","Total Loss","Side Collision","Other",47400,"Y",1,0,0.283018867924528
+40,"MALE","IN","100/300","Single Vehicle Collision","Total Loss","Front Collision","Other",71100,"N",1,0,0.283018867924528
+46,"MALE","OH","100/300","Single Vehicle Collision","Minor Damage","Front Collision","Police",69400,"N",1,0,0.283018867924528
+39,"MALE","OH","500/1000","Multi-vehicle Collision","Major Damage","Rear Collision","Other",55000,"Y",1,0,0.27930174563591
+52,"MALE","IN","250/500","Multi-vehicle Collision","Total Loss","Rear Collision","Police",51090,"N",1,0,0.27930174563591
+34,"MALE","OH","500/1000","Single Vehicle Collision","Major Damage","Side Collision","Fire",64200,"Y",1,0,0.283018867924528
+45,"MALE","IL","500/1000","Single Vehicle Collision","Total Loss","Front Collision","Other",67320,"N",1,0,0.283018867924528
+31,"MALE","IL","250/500","Multi-vehicle Collision","Major Damage","Side Collision","Other",76120,"N",1,0,0.27930174563591
+28,"FEMALE","OH","500/1000","Multi-vehicle Collision","Minor Damage","Front Collision","Ambulance",85020,"N",1,0,0.27930174563591
+41,"MALE","OH","250/500","Multi-vehicle Collision","Minor Damage","Rear Collision","Fire",68090,"N",1,0,0.27930174563591
+59,"FEMALE","IL","250/500","Multi-vehicle Collision","Major Damage","Front Collision","Other",72400,"Y",1,0,0.27930174563591
+64,"MALE","IN","250/500","Single Vehicle Collision","Major Damage","Front Collision","Fire",70900,"N",1,0,0.283018867924528
+25,"FEMALE","IL","500/1000","Multi-vehicle Collision","Total Loss","Side Collision","Other",65100,"N",1,0,0.27930174563591
+40,"FEMALE","OH","100/300","Multi-vehicle Collision","Total Loss","Side Collision","Ambulance",64260,"N",1,0,0.27930174563591
+43,"FEMALE","IL","500/1000","Single Vehicle Collision","Major Damage","Rear Collision","Ambulance",79970,"Y",1,0,0.283018867924528
+41,"FEMALE","IN","100/300","Single Vehicle Collision","Total Loss","Rear Collision","Police",56610,"N",1,0,0.283018867924528
+30,"FEMALE","IN","500/1000","Single Vehicle Collision","Major Damage","Side Collision","Fire",84590,"Y",1,0,0.283018867924528
+38,"MALE","OH","250/500","Multi-vehicle Collision","Major Damage","Side Collision","Fire",66780,"N",1,0,0.27930174563591
+36,"MALE","IN","100/300","Single Vehicle Collision","Major Damage","Rear Collision","Police",58500,"N",1,0,0.283018867924528
+41,"FEMALE","IL","250/500","Multi-vehicle Collision","Major Damage","Front Collision","Ambulance",54450,"N",1,0,0.27930174563591
+38,"FEMALE","OH","250/500","Multi-vehicle Collision","Major Damage","Front Collision","Police",61920,"N",1,0,0.27930174563591
+29,"MALE","OH","250/500","Single Vehicle Collision","Minor Damage","Side Collision","Ambulance",43700,"Y",1,0,0.283018867924528
+31,"MALE","IN","100/300","Single Vehicle Collision","Minor Damage","Front Collision","Other",64080,"N",1,0,0.283018867924528
+35,"MALE","IL","250/500","Single Vehicle Collision","Total Loss","Rear Collision","Other",55000,"Y",1,0,0.283018867924528
+27,"MALE","OH","100/300","Multi-vehicle Collision","Minor Damage","Side Collision","Police",71640,"N",1,0,0.27930174563591
+44,"MALE","OH","100/300","Single Vehicle Collision","Minor Damage","Rear Collision","Other",61740,"N",1,0,0.283018867924528
+27,"FEMALE","OH","500/1000","Single Vehicle Collision","Total Loss","Side Collision","Ambulance",57500,"N",1,0,0.283018867924528
+46,"FEMALE","OH","100/300","Multi-vehicle Collision","Total Loss","Front Collision","Police",77100,"N",1,0,0.27930174563591
+57,"MALE","IL","250/500","Single Vehicle Collision","Minor Damage","Front Collision","Police",59400,"N",1,0,0.283018867924528
+46,"MALE","IN","100/300","Multi-vehicle Collision","Minor Damage","Rear Collision","Fire",54890,"N",1,0,0.27930174563591
+30,"MALE","IL","250/500","Multi-vehicle Collision","Minor Damage","Front Collision","Other",74030,"N",1,0,0.27930174563591
+42,"FEMALE","IL","250/500","Single Vehicle Collision","Total Loss","Rear Collision","Other",61490,"N",1,0,0.283018867924528
+27,"MALE","IN","250/500","Multi-vehicle Collision","Minor Damage","Front Collision","Police",79560,"N",1,0,0.27930174563591
+34,"MALE","IL","250/500","Multi-vehicle Collision","Total Loss","Side Collision","Other",77770,"N",1,0,0.27930174563591
+43,"FEMALE","IN","500/1000","Multi-vehicle Collision","Major Damage","Side Collision","Fire",74700,"Y",1,0,0.27930174563591
+26,"MALE","IL","100/300","Multi-vehicle Collision","Minor Damage","Front Collision","Police",40600,"N",1,0,0.27930174563591
+28,"MALE","OH","100/300","Single Vehicle Collision","Total Loss","Rear Collision","Ambulance",45270,"N",1,0,0.283018867924528
+36,"FEMALE","IL","100/300","Multi-vehicle Collision","Minor Damage","Front Collision","Ambulance",47080,"N",1,0,0.27930174563591
+57,"FEMALE","OH","500/1000","Single Vehicle Collision","Minor Damage","Side Collision","Police",40700,"Y",1,0,0.283018867924528
+27,"FEMALE","OH","100/300","Single Vehicle Collision","Minor Damage","Side Collision","Police",34650,"N",1,0,0.283018867924528
+42,"MALE","IL","500/1000","Single Vehicle Collision","Major Damage","Rear Collision","Fire",78980,"Y",1,0,0.283018867924528
+60,"FEMALE","IN","100/300","Single Vehicle Collision","Major Damage","Front Collision","Ambulance",85250,"N",1,0,0.283018867924528
+50,"MALE","IL","100/300","Multi-vehicle Collision","Major Damage","Side Collision","Fire",72840,"N",1,0,0.27930174563591
+39,"FEMALE","IN","250/500","Single Vehicle Collision","Major Damage","Front Collision","Fire",87890,"Y",1,0,0.283018867924528
+47,"FEMALE","IL","100/300","Multi-vehicle Collision","Total Loss","Side Collision","Other",60500,"Y",1,0,0.27930174563591
+35,"FEMALE","IN","500/1000","Multi-vehicle Collision","Minor Damage","Front Collision","Fire",88220,"N",1,0,0.27930174563591
+37,"FEMALE","OH","500/1000","Multi-vehicle Collision","Total Loss","Rear Collision","Other",53680,"N",1,0,0.27930174563591
+45,"MALE","OH","500/1000","Single Vehicle Collision","Minor Damage","Front Collision","Fire",53800,"N",1,0,0.283018867924528
+29,"FEMALE","OH","100/300","Single Vehicle Collision","Major Damage","Rear Collision","Police",54360,"Y",1,0,0.283018867924528
+35,"FEMALE","IL","500/1000","Single Vehicle Collision","Major Damage","Side Collision","Police",54340,"N",1,0,0.283018867924528
+34,"FEMALE","OH","500/1000","Multi-vehicle Collision","Major Damage","Side Collision","Ambulance",50800,"Y",1,0,0.27930174563591
+48,"MALE","IL","250/500","Multi-vehicle Collision","Minor Damage","Side Collision","Fire",41520,"N",1,0,0.27930174563591
+55,"FEMALE","OH","100/300","Multi-vehicle Collision","Total Loss","Rear Collision","Police",39690,"N",1,0,0.27930174563591
+32,"FEMALE","IL","500/1000","Single Vehicle Collision","Major Damage","Rear Collision","Ambulance",62260,"N",1,0,0.283018867924528
+38,"FEMALE","IL","250/500","Single Vehicle Collision","Major Damage","Side Collision","Police",51920,"Y",1,0,0.283018867924528
+40,"MALE","IL","250/500","Single Vehicle Collision","Minor Damage","Front Collision","Other",53460,"N",1,0,0.283018867924528
+43,"FEMALE","OH","100/300","Multi-vehicle Collision","Total Loss","Rear Collision","Fire",57100,"N",1,0,0.27930174563591
+36,"MALE","IN","250/500","Multi-vehicle Collision","Total Loss","Front Collision","Ambulance",77440,"N",1,0,0.27930174563591
+40,"MALE","IL","500/1000","Single Vehicle Collision","Minor Damage","Side Collision","Ambulance",68300,"N",1,0,0.283018867924528
+32,"MALE","IL","100/300","Multi-vehicle Collision","Total Loss","Side Collision","Ambulance",59400,"Y",1,0,0.27930174563591
+31,"FEMALE","IL","100/300","Multi-vehicle Collision","Major Damage","Side Collision","Ambulance",69930,"Y",1,0,0.27930174563591
+27,"FEMALE","IN","100/300","Multi-vehicle Collision","Minor Damage","Front Collision","Police",77700,"N",1,0,0.27930174563591
+54,"MALE","OH","500/1000","Multi-vehicle Collision","Major Damage","Front Collision","Other",68750,"Y",1,0,0.27930174563591
+20,"FEMALE","IN","500/1000","Single Vehicle Collision","Minor Damage","Side Collision","Other",48360,"N",1,1,0.283018867924528
+39,"MALE","IL","500/1000","Multi-vehicle Collision","Minor Damage","Front Collision","Other",59400,"Y",1,0,0.27930174563591
+43,"FEMALE","OH","500/1000","Single Vehicle Collision","Minor Damage","Rear Collision","Fire",60210,"N",1,0,0.283018867924528
+32,"MALE","IL","250/500","Single Vehicle Collision","Minor Damage","Front Collision","Ambulance",43600,"N",1,0,0.283018867924528
+57,"MALE","IN","100/300","Multi-vehicle Collision","Total Loss","Front Collision","Police",62800,"N",1,0,0.27930174563591
+48,"MALE","OH","250/500","Single Vehicle Collision","Major Damage","Side Collision","Ambulance",59500,"N",1,0,0.283018867924528
+37,"FEMALE","OH","250/500","Multi-vehicle Collision","Total Loss","Front Collision","Police",53460,"N",1,0,0.27930174563591
+33,"FEMALE","IL","100/300","Multi-vehicle Collision","Total Loss","Side Collision","Ambulance",41690,"N",1,0,0.27930174563591
+46,"FEMALE","OH","100/300","Single Vehicle Collision","Minor Damage","Side Collision","Ambulance",63100,"N",1,0,0.283018867924528
+60,"MALE","OH","500/1000","Single Vehicle Collision","Total Loss","Front Collision","Ambulance",62880,"Y",1,0,0.283018867924528
+51,"FEMALE","IL","100/300","Multi-vehicle Collision","Major Damage","Side Collision","Fire",75400,"Y",1,0,0.27930174563591
+40,"MALE","OH","250/500","Single Vehicle Collision","Total Loss","Rear Collision","Ambulance",46200,"N",1,0,0.283018867924528
+47,"MALE","IN","500/1000","Single Vehicle Collision","Major Damage","Rear Collision","Ambulance",58500,"N",1,0,0.283018867924528
+57,"MALE","OH","500/1000","Multi-vehicle Collision","Major Damage","Rear Collision","Other",66240,"N",1,0,0.27930174563591
+36,"FEMALE","IN","100/300","Multi-vehicle Collision","Total Loss","Rear Collision","Ambulance",65440,"N",1,0,0.27930174563591
+43,"MALE","IL","500/1000","Single Vehicle Collision","Minor Damage","Front Collision","Fire",64200,"N",1,0,0.283018867924528
+25,"FEMALE","IN","100/300","Multi-vehicle Collision","Minor Damage","Rear Collision","Ambulance",32320,"N",1,0,0.27930174563591
+28,"FEMALE","IL","500/1000","Single Vehicle Collision","Major Damage","Rear Collision","Police",33480,"N",1,0,0.283018867924528
+29,"MALE","OH","100/300","Multi-vehicle Collision","Minor Damage","Front Collision","Ambulance",57970,"N",1,0,0.27930174563591
+45,"FEMALE","IL","500/1000","Multi-vehicle Collision","Minor Damage","Front Collision","Fire",69300,"N",1,0,0.27930174563591
+30,"FEMALE","OH","100/300","Multi-vehicle Collision","Minor Damage","Side Collision","Police",32480,"N",1,0,0.27930174563591
+38,"MALE","IN","100/300","Single Vehicle Collision","Total Loss","Front Collision","Police",60480,"N",1,0,0.283018867924528
+43,"MALE","OH","250/500","Multi-vehicle Collision","Total Loss","Rear Collision","Ambulance",42700,"Y",1,0,0.27930174563591
+47,"MALE","IN","250/500","Single Vehicle Collision","Major Damage","Front Collision","Ambulance",40260,"Y",1,0,0.283018867924528
+50,"MALE","OH","500/1000","Single Vehicle Collision","Major Damage","Rear Collision","Fire",50000,"N",1,0,0.283018867924528
+47,"MALE","IN","250/500","Multi-vehicle Collision","Minor Damage","Side Collision","Ambulance",56160,"N",1,0,0.27930174563591
+42,"MALE","OH","100/300","Single Vehicle Collision","Major Damage","Side Collision","Police",63030,"N",1,0,0.283018867924528
+41,"FEMALE","IL","250/500","Single Vehicle Collision","Minor Damage","Front Collision","Police",63470,"N",1,0,0.283018867924528
+38,"FEMALE","IL","250/500","Single Vehicle Collision","Major Damage","Front Collision","Police",44440,"Y",1,0,0.283018867924528
+36,"MALE","OH","250/500","Multi-vehicle Collision","Minor Damage","Side Collision","Ambulance",77200,"N",1,0,0.27930174563591
+30,"FEMALE","OH","100/300","Multi-vehicle Collision","Total Loss","Rear Collision","Other",57000,"N",1,0,0.27930174563591
+36,"MALE","OH","250/500","Single Vehicle Collision","Total Loss","Rear Collision","Police",47300,"N",1,0,0.283018867924528
+37,"FEMALE","OH","250/500","Single Vehicle Collision","Major Damage","Rear Collision","Other",55110,"N",1,0,0.283018867924528
+38,"FEMALE","OH","250/500","Multi-vehicle Collision","Total Loss","Front Collision","Police",68760,"Y",1,0,0.27930174563591
+31,"FEMALE","IL","250/500","Multi-vehicle Collision","Major Damage","Front Collision","Other",74400,"Y",1,0,0.27930174563591
+33,"FEMALE","OH","250/500","Multi-vehicle Collision","Major Damage","Rear Collision","Fire",35300,"Y",1,0,0.27930174563591
+41,"MALE","IL","250/500","Multi-vehicle Collision","Total Loss","Rear Collision","Ambulance",60190,"Y",1,0,0.27930174563591
+39,"FEMALE","IL","500/1000","Multi-vehicle Collision","Major Damage","Rear Collision","Fire",41580,"Y",1,0,0.27930174563591
+45,"FEMALE","IN","250/500","Single Vehicle Collision","Minor Damage","Side Collision","Ambulance",58500,"Y",1,0,0.283018867924528
+43,"FEMALE","IN","500/1000","Single Vehicle Collision","Minor Damage","Rear Collision","Fire",79320,"N",1,0,0.283018867924528
+33,"FEMALE","OH","100/300","Single Vehicle Collision","Minor Damage","Rear Collision","Ambulance",82610,"Y",1,0,0.283018867924528
+41,"FEMALE","OH","100/300","Multi-vehicle Collision","Total Loss","Rear Collision","Ambulance",78600,"Y",1,0,0.27930174563591
+46,"MALE","OH","100/300","Single Vehicle Collision","Minor Damage","Front Collision","Ambulance",51390,"Y",1,0,0.283018867924528
+44,"MALE","IN","500/1000","Single Vehicle Collision","Major Damage","Side Collision","Ambulance",70200,"Y",1,0,0.283018867924528
+62,"FEMALE","OH","250/500","Multi-vehicle Collision","Major Damage","Side Collision","Other",66480,"Y",1,0,0.27930174563591
+23,"MALE","OH","500/1000","Single Vehicle Collision","Major Damage","Rear Collision","Fire",50380,"Y",1,1,0.283018867924528
+61,"FEMALE","IL","500/1000","Single Vehicle Collision","Major Damage","Front Collision","Fire",64350,"N",1,0,0.283018867924528
+29,"MALE","IN","250/500","Multi-vehicle Collision","Major Damage","Rear Collision","Ambulance",55400,"Y",1,0,0.27930174563591
+28,"MALE","OH","100/300","Single Vehicle Collision","Total Loss","Front Collision","Other",49900,"N",1,0,0.283018867924528
+28,"MALE","OH","500/1000","Multi-vehicle Collision","Minor Damage","Side Collision","Ambulance",74880,"N",1,0,0.27930174563591
+58,"MALE","IN","500/1000","Single Vehicle Collision","Total Loss","Front Collision","Ambulance",55800,"N",1,0,0.283018867924528
+41,"FEMALE","OH","100/300","Single Vehicle Collision","Major Damage","Side Collision","Ambulance",85900,"Y",1,0,0.283018867924528
+43,"MALE","IL","250/500","Multi-vehicle Collision","Total Loss","Side Collision","Fire",36960,"N",1,0,0.27930174563591
+39,"FEMALE","OH","250/500","Multi-vehicle Collision","Minor Damage","Rear Collision","Police",64400,"N",1,0,0.27930174563591
+22,"MALE","IN","500/1000","Single Vehicle Collision","Major Damage","Rear Collision","Police",86130,"Y",1,1,0.283018867924528
+32,"FEMALE","IL","250/500","Single Vehicle Collision","Major Damage","Side Collision","Fire",82170,"Y",1,0,0.283018867924528
+41,"FEMALE","IN","100/300","Single Vehicle Collision","Major Damage","Front Collision","Fire",50300,"Y",1,0,0.283018867924528
+31,"FEMALE","IN","250/500","Single Vehicle Collision","Major Damage","Side Collision","Police",44200,"N",1,0,0.283018867924528
+43,"FEMALE","IN","100/300","Single Vehicle Collision","Major Damage","Side Collision","Ambulance",66660,"N",1,0,0.283018867924528
+26,"FEMALE","OH","250/500","Single Vehicle Collision","Total Loss","Front Collision","Ambulance",78320,"N",1,0,0.283018867924528
+43,"MALE","IN","250/500","Single Vehicle Collision","Minor Damage","Side Collision","Fire",50700,"N",1,0,0.283018867924528
+45,"FEMALE","IL","100/300","Multi-vehicle Collision","Total Loss","Front Collision","Fire",51210,"N",1,0,0.27930174563591
+48,"MALE","OH","100/300","Multi-vehicle Collision","Total Loss","Rear Collision","Fire",51840,"N",1,0,0.27930174563591
+33,"FEMALE","IL","500/1000","Multi-vehicle Collision","Total Loss","Front Collision","Ambulance",52800,"N",1,0,0.27930174563591
+42,"FEMALE","OH","500/1000","Single Vehicle Collision","Minor Damage","Front Collision","Fire",55200,"N",1,0,0.283018867924528
+51,"FEMALE","IN","250/500","Multi-vehicle Collision","Minor Damage","Rear Collision","Other",67600,"N",1,0,0.27930174563591
+33,"MALE","OH","250/500","Single Vehicle Collision","Minor Damage","Rear Collision","Other",40800,"N",1,0,0.283018867924528
+50,"MALE","IN","250/500","Multi-vehicle Collision","Major Damage","Side Collision","Other",84500,"Y",1,0,0.27930174563591
+39,"MALE","IN","500/1000","Multi-vehicle Collision","Major Damage","Front Collision","Other",71610,"Y",1,0,0.27930174563591
+55,"MALE","IN","250/500","Multi-vehicle Collision","Major Damage","Rear Collision","Other",60600,"Y",1,0,0.27930174563591
+41,"MALE","IL","100/300","Multi-vehicle Collision","Major Damage","Rear Collision","Fire",81240,"Y",1,0,0.27930174563591
+39,"FEMALE","OH","250/500","Multi-vehicle Collision","Total Loss","Side Collision","Fire",29300,"N",1,0,0.27930174563591
+31,"FEMALE","IL","500/1000","Multi-vehicle Collision","Total Loss","Side Collision","Fire",76450,"N",1,0,0.27930174563591
+44,"FEMALE","IL","100/300","Multi-vehicle Collision","Major Damage","Side Collision","Fire",49400,"N",1,0,0.27930174563591
+40,"FEMALE","IL","100/300","Single Vehicle Collision","Minor Damage","Side Collision","Fire",63900,"N",1,0,0.283018867924528
+55,"MALE","IL","250/500","Multi-vehicle Collision","Minor Damage","Rear Collision","Fire",38640,"N",1,0,0.27930174563591
+58,"MALE","IN","100/300","Multi-vehicle Collision","Total Loss","Rear Collision","Other",41490,"N",1,0,0.27930174563591
+35,"FEMALE","IN","100/300","Multi-vehicle Collision","Minor Damage","Side Collision","Fire",79090,"N",1,0,0.27930174563591
+35,"MALE","IL","100/300","Multi-vehicle Collision","Major Damage","Side Collision","Police",87900,"N",1,0,0.27930174563591
+32,"MALE","IL","500/1000","Single Vehicle Collision","Total Loss","Rear Collision","Ambulance",53400,"N",1,0,0.283018867924528
+36,"MALE","OH","250/500","Single Vehicle Collision","Total Loss","Rear Collision","Fire",52030,"N",1,0,0.283018867924528
+60,"MALE","IN","250/500","Single Vehicle Collision","Minor Damage","Front Collision","Ambulance",82060,"N",1,0,0.283018867924528
+35,"FEMALE","OH","250/500","Single Vehicle Collision","Minor Damage","Front Collision","Ambulance",48360,"N",1,0,0.283018867924528
+31,"FEMALE","OH","250/500","Multi-vehicle Collision","Minor Damage","Side Collision","Other",52290,"N",1,0,0.27930174563591
+57,"MALE","IL","100/300","Multi-vehicle Collision","Major Damage","Rear Collision","Police",68200,"Y",1,0,0.27930174563591
+43,"MALE","IL","100/300","Multi-vehicle Collision","Major Damage","Rear Collision","Other",60750,"Y",1,0,0.27930174563591
+30,"FEMALE","IN","500/1000","Multi-vehicle Collision","Major Damage","Front Collision","Fire",65560,"Y",1,0,0.27930174563591
+50,"FEMALE","IN","500/1000","Multi-vehicle Collision","Minor Damage","Rear Collision","Police",70290,"N",1,0,0.27930174563591
+37,"FEMALE","OH","100/300","Single Vehicle Collision","Total Loss","Rear Collision","Ambulance",45000,"N",1,0,0.283018867924528
+39,"FEMALE","IL","500/1000","Multi-vehicle Collision","Total Loss","Rear Collision","Fire",61800,"N",1,0,0.27930174563591
+46,"FEMALE","IL","100/300","Multi-vehicle Collision","Major Damage","Front Collision","Ambulance",64570,"N",1,0,0.27930174563591
+61,"FEMALE","IL","100/300","Single Vehicle Collision","Minor Damage","Rear Collision","Other",70500,"N",1,0,0.283018867924528
+37,"MALE","IL","100/300","Multi-vehicle Collision","Total Loss","Side Collision","Police",57900,"N",1,0,0.27930174563591
+46,"FEMALE","IL","250/500","Multi-vehicle Collision","Minor Damage","Front Collision","Fire",57860,"N",1,0,0.27930174563591
+39,"MALE","IN","100/300","Single Vehicle Collision","Minor Damage","Side Collision","Fire",37800,"N",1,0,0.283018867924528
+37,"FEMALE","OH","500/1000","Single Vehicle Collision","Total Loss","Front Collision","Ambulance",63300,"N",1,0,0.283018867924528
+33,"FEMALE","IN","250/500","Multi-vehicle Collision","Total Loss","Rear Collision","Ambulance",44200,"N",1,0,0.27930174563591
+28,"MALE","IL","250/500","Multi-vehicle Collision","Minor Damage","Side Collision","Police",31680,"N",1,0,0.27930174563591
+61,"FEMALE","IN","100/300","Single Vehicle Collision","Minor Damage","Front Collision","Fire",56340,"N",1,0,0.283018867924528
+40,"FEMALE","IN","100/300","Multi-vehicle Collision","Total Loss","Rear Collision","Police",69740,"N",1,0,0.27930174563591
+38,"MALE","IL","100/300","Multi-vehicle Collision","Total Loss","Front Collision","Police",60480,"N",1,0,0.27930174563591
+61,"FEMALE","IN","500/1000","Multi-vehicle Collision","Minor Damage","Rear Collision","Police",80880,"N",1,0,0.27930174563591
+61,"FEMALE","IN","250/500","Single Vehicle Collision","Total Loss","Front Collision","Fire",49390,"N",1,0,0.283018867924528
+29,"FEMALE","IN","100/300","Single Vehicle Collision","Minor Damage","Front Collision","Ambulance",69360,"N",1,0,0.283018867924528
+48,"FEMALE","IL","500/1000","Multi-vehicle Collision","Total Loss","Front Collision","Police",35860,"Y",1,0,0.27930174563591
+40,"MALE","IN","100/300","Multi-vehicle Collision","Major Damage","Front Collision","Ambulance",50050,"Y",1,0,0.27930174563591
+27,"MALE","IL","500/1000","Multi-vehicle Collision","Minor Damage","Rear Collision","Fire",59070,"N",1,0,0.27930174563591
+30,"MALE","IN","500/1000","Multi-vehicle Collision","Minor Damage","Front Collision","Fire",28440,"N",1,0,0.27930174563591
+34,"FEMALE","IL","250/500","Single Vehicle Collision","Major Damage","Front Collision","Fire",45540,"Y",1,0,0.283018867924528
+34,"FEMALE","IN","100/300","Single Vehicle Collision","Minor Damage","Rear Collision","Fire",38700,"N",1,0,0.283018867924528
+32,"FEMALE","IL","500/1000","Single Vehicle Collision","Total Loss","Rear Collision","Other",57240,"Y",1,0,0.283018867924528
+39,"MALE","OH","100/300","Multi-vehicle Collision","Total Loss","Rear Collision","Police",46200,"N",1,0,0.27930174563591
+32,"FEMALE","IN","100/300","Single Vehicle Collision","Total Loss","Side Collision","Ambulance",57700,"N",1,0,0.283018867924528
+48,"MALE","IL","250/500","Multi-vehicle Collision","Minor Damage","Front Collision","Fire",56160,"N",1,0,0.27930174563591
+47,"MALE","IN","250/500","Multi-vehicle Collision","Total Loss","Side Collision","Fire",44400,"N",1,0,0.27930174563591
+33,"FEMALE","OH","250/500","Single Vehicle Collision","Minor Damage","Side Collision","Fire",30700,"N",1,0,0.283018867924528
+24,"FEMALE","OH","250/500","Single Vehicle Collision","Major Damage","Side Collision","Fire",56600,"N",1,1,0.283018867924528
+30,"MALE","IL","250/500","Single Vehicle Collision","Minor Damage","Rear Collision","Police",34800,"N",1,0,0.283018867924528
+36,"FEMALE","IN","250/500","Multi-vehicle Collision","Minor Damage","Rear Collision","Other",79500,"N",1,0,0.27930174563591
+34,"FEMALE","IN","250/500","Single Vehicle Collision","Total Loss","Front Collision","Police",56000,"N",1,0,0.283018867924528
+29,"FEMALE","IN","250/500","Single Vehicle Collision","Minor Damage","Rear Collision","Ambulance",73260,"Y",1,0,0.283018867924528
+42,"MALE","IN","500/1000","Single Vehicle Collision","Minor Damage","Rear Collision","Ambulance",48000,"N",1,0,0.283018867924528
+37,"MALE","IN","250/500","Single Vehicle Collision","Major Damage","Side Collision","Fire",52200,"N",1,0,0.283018867924528
+38,"FEMALE","IN","250/500","Multi-vehicle Collision","Minor Damage","Rear Collision","Ambulance",73800,"N",1,0,0.27930174563591
+34,"FEMALE","IL","250/500","Single Vehicle Collision","Total Loss","Side Collision","Fire",78200,"N",1,0,0.283018867924528
+33,"MALE","IN","250/500","Single Vehicle Collision","Major Damage","Rear Collision","Ambulance",55200,"Y",1,0,0.283018867924528
+43,"FEMALE","IL","500/1000","Multi-vehicle Collision","Total Loss","Side Collision","Other",57060,"N",1,0,0.27930174563591
+56,"FEMALE","IN","250/500","Single Vehicle Collision","Minor Damage","Front Collision","Ambulance",53100,"Y",1,0,0.283018867924528
+25,"FEMALE","IL","500/1000","Multi-vehicle Collision","Total Loss","Front Collision","Ambulance",72900,"N",1,0,0.27930174563591
+38,"FEMALE","IN","250/500","Single Vehicle Collision","Total Loss","Rear Collision","Police",70700,"N",1,0,0.283018867924528
+30,"FEMALE","IL","100/300","Multi-vehicle Collision","Minor Damage","Side Collision","Other",60170,"N",1,0,0.27930174563591
+42,"MALE","IN","100/300","Single Vehicle Collision","Major Damage","Rear Collision","Other",74800,"Y",1,0,0.283018867924528
+47,"MALE","IN","250/500","Single Vehicle Collision","Minor Damage","Side Collision","Other",61490,"N",1,0,0.283018867924528
+34,"FEMALE","IN","500/1000","Multi-vehicle Collision","Minor Damage","Side Collision","Fire",45100,"N",1,0,0.27930174563591
+53,"MALE","OH","250/500","Single Vehicle Collision","Minor Damage","Front Collision","Police",66660,"N",1,0,0.283018867924528
+41,"FEMALE","OH","500/1000","Single Vehicle Collision","Major Damage","Front Collision","Police",76400,"Y",1,0,0.283018867924528
+37,"FEMALE","IN","250/500","Single Vehicle Collision","Total Loss","Rear Collision","Ambulance",58300,"N",1,0,0.283018867924528
+49,"FEMALE","IL","100/300","Single Vehicle Collision","Total Loss","Front Collision","Police",57310,"N",1,0,0.283018867924528
+32,"FEMALE","OH","500/1000","Single Vehicle Collision","Minor Damage","Front Collision","Fire",53100,"N",1,0,0.283018867924528
+24,"FEMALE","OH","250/500","Multi-vehicle Collision","Total Loss","Side Collision","Ambulance",74700,"N",1,1,0.27930174563591
+28,"FEMALE","OH","250/500","Multi-vehicle Collision","Major Damage","Rear Collision","Fire",60500,"N",1,0,0.27930174563591
+26,"MALE","OH","250/500","Multi-vehicle Collision","Total Loss","Side Collision","Other",84920,"Y",1,0,0.27930174563591
+36,"FEMALE","IL","500/1000","Single Vehicle Collision","Total Loss","Side Collision","Police",61050,"N",1,0,0.283018867924528
+26,"MALE","IL","250/500","Multi-vehicle Collision","Major Damage","Rear Collision","Police",69080,"Y",1,0,0.27930174563591
+28,"FEMALE","IN","250/500","Multi-vehicle Collision","Total Loss","Rear Collision","Police",67800,"N",1,0,0.27930174563591
+43,"FEMALE","IN","100/300","Single Vehicle Collision","Total Loss","Rear Collision","Police",85320,"N",1,0,0.283018867924528
+34,"FEMALE","OH","250/500","Multi-vehicle Collision","Major Damage","Side Collision","Fire",51370,"Y",1,0,0.27930174563591
+43,"MALE","OH","250/500","Single Vehicle Collision","Major Damage","Rear Collision","Police",51600,"N",1,0,0.283018867924528
+39,"MALE","OH","500/1000","Multi-vehicle Collision","Minor Damage","Rear Collision","Fire",48870,"N",1,0,0.27930174563591
+48,"MALE","IL","500/1000","Multi-vehicle Collision","Major Damage","Front Collision","Other",54960,"Y",1,0,0.27930174563591
+47,"FEMALE","OH","500/1000","Multi-vehicle Collision","Minor Damage","Side Collision","Police",39800,"N",1,0,0.27930174563591
+37,"FEMALE","IN","500/1000","Multi-vehicle Collision","Major Damage","Side Collision","Ambulance",56160,"Y",1,0,0.27930174563591
+42,"MALE","IN","100/300","Single Vehicle Collision","Total Loss","Side Collision","Fire",52700,"N",1,0,0.283018867924528
+43,"FEMALE","OH","500/1000","Multi-vehicle Collision","Minor Damage","Side Collision","Fire",68580,"N",1,0,0.27930174563591
+43,"MALE","OH","250/500","Single Vehicle Collision","Major Damage","Side Collision","Ambulance",46800,"Y",1,0,0.283018867924528
+47,"FEMALE","OH","500/1000","Multi-vehicle Collision","Total Loss","Side Collision","Fire",56320,"N",1,0,0.27930174563591
+46,"MALE","OH","100/300","Single Vehicle Collision","Minor Damage","Front Collision","Fire",83490,"N",1,0,0.283018867924528
+36,"FEMALE","IN","500/1000","Multi-vehicle Collision","Total Loss","Side Collision","Police",57900,"N",1,0,0.27930174563591
+36,"MALE","IN","250/500","Multi-vehicle Collision","Total Loss","Rear Collision","Fire",49410,"N",1,0,0.27930174563591
+45,"MALE","OH","500/1000","Multi-vehicle Collision","Minor Damage","Side Collision","Fire",66200,"N",1,0,0.27930174563591
+46,"MALE","OH","100/300","Single Vehicle Collision","Minor Damage","Front Collision","Fire",64080,"N",1,0,0.283018867924528
+43,"FEMALE","OH","250/500","Multi-vehicle Collision","Minor Damage","Side Collision","Other",42500,"N",1,0,0.27930174563591
+30,"MALE","IL","500/1000","Multi-vehicle Collision","Total Loss","Side Collision","Other",48950,"N",1,0,0.27930174563591
+42,"FEMALE","IN","100/300","Multi-vehicle Collision","Minor Damage","Rear Collision","Other",58850,"N",1,0,0.27930174563591
+40,"FEMALE","IL","500/1000","Multi-vehicle Collision","Minor Damage","Side Collision","Other",82400,"N",1,0,0.27930174563591
+44,"FEMALE","OH","500/1000","Single Vehicle Collision","Minor Damage","Rear Collision","Ambulance",54240,"N",1,0,0.283018867924528
+26,"FEMALE","IL","250/500","Multi-vehicle Collision","Minor Damage","Front Collision","Other",74200,"N",1,0,0.27930174563591
+53,"FEMALE","IL","100/300","Single Vehicle Collision","Total Loss","Front Collision","Fire",47430,"N",1,0,0.283018867924528
+43,"FEMALE","IL","250/500","Single Vehicle Collision","Major Damage","Rear Collision","Fire",68200,"Y",1,0,0.283018867924528
+33,"FEMALE","IN","100/300","Single Vehicle Collision","Minor Damage","Front Collision","Fire",63900,"N",1,0,0.283018867924528
+39,"FEMALE","OH","100/300","Multi-vehicle Collision","Total Loss","Rear Collision","Ambulance",59300,"N",1,0,0.27930174563591
+44,"FEMALE","IL","500/1000","Multi-vehicle Collision","Minor Damage","Front Collision","Other",66900,"Y",1,0,0.27930174563591
+27,"MALE","OH","500/1000","Multi-vehicle Collision","Major Damage","Rear Collision","Police",40810,"Y",1,0,0.27930174563591
+43,"FEMALE","IN","100/300","Single Vehicle Collision","Total Loss","Front Collision","Fire",75400,"N",1,0,0.283018867924528
+45,"FEMALE","OH","100/300","Multi-vehicle Collision","Major Damage","Side Collision","Ambulance",52650,"Y",1,0,0.27930174563591
+49,"FEMALE","IL","250/500","Single Vehicle Collision","Major Damage","Rear Collision","Ambulance",42240,"N",1,0,0.283018867924528
+39,"FEMALE","IN","500/1000","Single Vehicle Collision","Minor Damage","Side Collision","Other",59490,"N",1,0,0.283018867924528
+37,"MALE","IL","100/300","Single Vehicle Collision","Major Damage","Side Collision","Ambulance",44200,"Y",1,0,0.283018867924528
+57,"MALE","IN","500/1000","Multi-vehicle Collision","Total Loss","Front Collision","Other",61440,"N",1,0,0.27930174563591
+37,"FEMALE","OH","250/500","Multi-vehicle Collision","Major Damage","Rear Collision","Fire",54400,"Y",1,0,0.27930174563591
+47,"MALE","IL","500/1000","Single Vehicle Collision","Total Loss","Front Collision","Other",58560,"N",1,0,0.283018867924528
+34,"MALE","IN","500/1000","Single Vehicle Collision","Major Damage","Front Collision","Fire",67300,"Y",1,0,0.283018867924528
+55,"MALE","OH","250/500","Single Vehicle Collision","Major Damage","Rear Collision","Fire",36740,"Y",1,0,0.283018867924528
+30,"FEMALE","IL","100/300","Single Vehicle Collision","Total Loss","Rear Collision","Police",85690,"N",1,0,0.283018867924528
+31,"FEMALE","OH","500/1000","Multi-vehicle Collision","Major Damage","Side Collision","Ambulance",34160,"Y",1,0,0.27930174563591
+48,"MALE","IL","250/500","Single Vehicle Collision","Minor Damage","Front Collision","Fire",61320,"N",1,0,0.283018867924528
+45,"MALE","IL","250/500","Multi-vehicle Collision","Total Loss","Rear Collision","Police",79680,"N",1,0,0.27930174563591
+30,"FEMALE","IL","250/500","Single Vehicle Collision","Total Loss","Front Collision","Fire",61740,"N",1,0,0.283018867924528
+55,"FEMALE","OH","500/1000","Single Vehicle Collision","Major Damage","Rear Collision","Fire",60600,"N",1,0,0.283018867924528
+38,"FEMALE","IL","100/300","Multi-vehicle Collision","Major Damage","Side Collision","Ambulance",56320,"N",1,0,0.27930174563591
+34,"FEMALE","IN","100/300","Single Vehicle Collision","Total Loss","Side Collision","Ambulance",52250,"N",1,0,0.283018867924528
+60,"FEMALE","IL","500/1000","Multi-vehicle Collision","Total Loss","Rear Collision","Other",53900,"N",1,0,0.27930174563591
+38,"MALE","IL","100/300","Multi-vehicle Collision","Major Damage","Front Collision","Fire",55200,"Y",1,0,0.27930174563591
+39,"FEMALE","IL","100/300","Multi-vehicle Collision","Minor Damage","Front Collision","Police",64680,"N",1,0,0.27930174563591
+43,"FEMALE","OH","250/500","Single Vehicle Collision","Major Damage","Rear Collision","Police",59200,"N",1,0,0.283018867924528
+33,"MALE","OH","250/500","Single Vehicle Collision","Total Loss","Side Collision","Other",69400,"N",1,0,0.283018867924528
+21,"FEMALE","IN","250/500","Single Vehicle Collision","Total Loss","Side Collision","Police",40500,"N",1,1,0.283018867924528
+28,"MALE","IL","500/1000","Multi-vehicle Collision","Minor Damage","Side Collision","Fire",60000,"N",1,0,0.27930174563591
+30,"MALE","IN","500/1000","Single Vehicle Collision","Minor Damage","Side Collision","Other",67320,"N",1,0,0.283018867924528
+27,"FEMALE","OH","500/1000","Multi-vehicle Collision","Total Loss","Side Collision","Other",75690,"N",1,0,0.27930174563591
+31,"MALE","IN","100/300","Multi-vehicle Collision","Major Damage","Side Collision","Fire",64300,"Y",1,0,0.27930174563591
+43,"MALE","OH","100/300","Multi-vehicle Collision","Major Damage","Rear Collision","Police",64400,"N",1,0,0.27930174563591
+38,"FEMALE","IN","500/1000","Multi-vehicle Collision","Total Loss","Rear Collision","Other",30700,"N",1,0,0.27930174563591
+48,"FEMALE","IL","100/300","Single Vehicle Collision","Minor Damage","Side Collision","Police",33480,"N",1,0,0.283018867924528
+26,"MALE","IN","500/1000","Multi-vehicle Collision","Total Loss","Front Collision","Police",65430,"N",1,0,0.27930174563591
+36,"MALE","OH","500/1000","Multi-vehicle Collision","Major Damage","Rear Collision","Police",42680,"Y",1,0,0.27930174563591
+45,"MALE","IL","500/1000","Single Vehicle Collision","Minor Damage","Side Collision","Fire",87780,"N",1,0,0.283018867924528
+36,"FEMALE","OH","500/1000","Multi-vehicle Collision","Major Damage","Front Collision","Fire",72800,"N",1,0,0.27930174563591
+37,"FEMALE","OH","250/500","Single Vehicle Collision","Major Damage","Rear Collision","Fire",71190,"Y",1,0,0.283018867924528
+41,"MALE","OH","250/500","Single Vehicle Collision","Major Damage","Side Collision","Other",62640,"N",1,0,0.283018867924528
+36,"MALE","IL","100/300","Multi-vehicle Collision","Minor Damage","Front Collision","Ambulance",69630,"N",1,0,0.27930174563591
+33,"MALE","IL","250/500","Multi-vehicle Collision","Minor Damage","Rear Collision","Police",76010,"Y",1,0,0.27930174563591
+40,"MALE","OH","100/300","Single Vehicle Collision","Total Loss","Rear Collision","Other",44220,"N",1,0,0.283018867924528
+38,"FEMALE","IL","250/500","Multi-vehicle Collision","Minor Damage","Rear Collision","Other",57200,"N",1,0,0.27930174563591
+31,"FEMALE","OH","250/500","Single Vehicle Collision","Total Loss","Rear Collision","Other",75790,"N",1,0,0.283018867924528
+30,"FEMALE","IN","500/1000","Multi-vehicle Collision","Minor Damage","Rear Collision","Ambulance",32670,"N",1,0,0.27930174563591
+32,"MALE","IL","250/500","Single Vehicle Collision","Major Damage","Front Collision","Other",74690,"Y",1,0,0.283018867924528
+32,"FEMALE","IN","100/300","Single Vehicle Collision","Major Damage","Side Collision","Police",55000,"Y",1,0,0.283018867924528
+48,"FEMALE","IN","100/300","Multi-vehicle Collision","Major Damage","Rear Collision","Police",59400,"Y",1,0,0.27930174563591
+34,"FEMALE","OH","500/1000","Multi-vehicle Collision","Total Loss","Side Collision","Fire",55260,"N",1,0,0.27930174563591
+44,"MALE","IL","250/500","Multi-vehicle Collision","Minor Damage","Side Collision","Other",51400,"N",1,0,0.27930174563591
+37,"FEMALE","IL","500/1000","Multi-vehicle Collision","Minor Damage","Side Collision","Ambulance",48780,"N",1,0,0.27930174563591
+31,"FEMALE","OH","100/300","Multi-vehicle Collision","Major Damage","Rear Collision","Ambulance",52380,"N",1,0,0.27930174563591
+34,"FEMALE","OH","100/300","Multi-vehicle Collision","Total Loss","Side Collision","Other",74360,"Y",1,0,0.27930174563591
+40,"MALE","OH","250/500","Single Vehicle Collision","Minor Damage","Front Collision","Police",53400,"N",1,0,0.283018867924528
+59,"FEMALE","IN","100/300","Single Vehicle Collision","Total Loss","Front Collision","Police",71800,"N",1,0,0.283018867924528
+31,"FEMALE","IN","250/500","Single Vehicle Collision","Major Damage","Front Collision","Other",68240,"Y",1,0,0.283018867924528
+45,"FEMALE","IN","250/500","Multi-vehicle Collision","Major Damage","Rear Collision","Other",61050,"Y",1,0,0.27930174563591
+48,"FEMALE","IL","500/1000","Multi-vehicle Collision","Major Damage","Side Collision","Fire",46860,"N",1,0,0.27930174563591
+57,"FEMALE","IN","250/500","Multi-vehicle Collision","Minor Damage","Front Collision","Police",78500,"N",1,0,0.27930174563591
+42,"MALE","IL","500/1000","Single Vehicle Collision","Total Loss","Side Collision","Police",70830,"N",1,0,0.283018867924528
+56,"MALE","IL","250/500","Multi-vehicle Collision","Total Loss","Front Collision","Police",68040,"N",1,0,0.27930174563591
+32,"FEMALE","IL","100/300","Single Vehicle Collision","Major Damage","Side Collision","Fire",63600,"Y",1,0,0.283018867924528
+63,"FEMALE","IL","250/500","Single Vehicle Collision","Minor Damage","Side Collision","Other",43560,"N",1,0,0.283018867924528
+31,"MALE","OH","250/500","Single Vehicle Collision","Total Loss","Front Collision","Police",60840,"N",1,0,0.283018867924528
+55,"FEMALE","OH","100/300","Multi-vehicle Collision","Total Loss","Side Collision","Police",68160,"N",1,0,0.27930174563591
+37,"FEMALE","IN","500/1000","Single Vehicle Collision","Total Loss","Side Collision","Ambulance",57700,"N",1,0,0.283018867924528
+39,"FEMALE","IN","250/500","Single Vehicle Collision","Minor Damage","Rear Collision","Ambulance",45180,"N",1,0,0.283018867924528
+38,"MALE","OH","250/500","Single Vehicle Collision","Total Loss","Side Collision","Other",45100,"N",1,0,0.283018867924528
+32,"MALE","IN","500/1000","Multi-vehicle Collision","Total Loss","Side Collision","Police",83160,"N",1,0,0.27930174563591
+42,"FEMALE","IL","100/300","Single Vehicle Collision","Minor Damage","Rear Collision","Police",86130,"N",1,0,0.283018867924528
+25,"MALE","OH","100/300","Multi-vehicle Collision","Major Damage","Front Collision","Fire",48000,"N",1,0,0.27930174563591
+34,"FEMALE","IL","100/300","Multi-vehicle Collision","Minor Damage","Rear Collision","Ambulance",57200,"N",1,0,0.27930174563591
+37,"FEMALE","OH","500/1000","Single Vehicle Collision","Total Loss","Rear Collision","Police",80080,"N",1,0,0.283018867924528
+29,"FEMALE","OH","250/500","Multi-vehicle Collision","Minor Damage","Rear Collision","Other",62900,"N",1,0,0.27930174563591
+32,"FEMALE","OH","100/300","Single Vehicle Collision","Major Damage","Rear Collision","Police",54200,"Y",1,0,0.283018867924528
+50,"FEMALE","OH","500/1000","Multi-vehicle Collision","Major Damage","Side Collision","Police",51800,"N",1,0,0.27930174563591
+35,"MALE","OH","250/500","Single Vehicle Collision","Total Loss","Side Collision","Fire",74140,"N",1,0,0.283018867924528
+25,"FEMALE","OH","500/1000","Single Vehicle Collision","Total Loss","Front Collision","Fire",67800,"N",1,0,0.283018867924528
+44,"MALE","OH","250/500","Single Vehicle Collision","Major Damage","Rear Collision","Fire",55400,"Y",1,0,0.283018867924528
+37,"MALE","IL","500/1000","Single Vehicle Collision","Major Damage","Rear Collision","Ambulance",49100,"Y",1,0,0.283018867924528
+40,"FEMALE","IN","100/300","Multi-vehicle Collision","Total Loss","Rear Collision","Fire",66550,"N",1,0,0.27930174563591
+33,"FEMALE","OH","500/1000","Multi-vehicle Collision","Major Damage","Side Collision","Fire",70400,"N",1,0,0.27930174563591
+42,"MALE","IN","100/300","Multi-vehicle Collision","Major Damage","Side Collision","Ambulance",53280,"Y",1,0,0.27930174563591
+32,"FEMALE","IN","250/500","Single Vehicle Collision","Total Loss","Front Collision","Other",84590,"N",1,0,0.283018867924528
+37,"FEMALE","IN","500/1000","Single Vehicle Collision","Total Loss","Rear Collision","Other",54560,"N",1,0,0.283018867924528
+40,"MALE","IL","500/1000","Single Vehicle Collision","Minor Damage","Rear Collision","Ambulance",82170,"N",1,0,0.283018867924528
+44,"MALE","OH","250/500","Multi-vehicle Collision","Total Loss","Front Collision","Police",61100,"N",1,0,0.27930174563591
+43,"MALE","IN","500/1000","Multi-vehicle Collision","Minor Damage","Front Collision","Police",51900,"Y",1,0,0.27930174563591
+36,"MALE","IN","250/500","Single Vehicle Collision","Total Loss","Side Collision","Ambulance",51390,"N",1,0,0.283018867924528
+32,"MALE","OH","100/300","Single Vehicle Collision","Major Damage","Side Collision","Other",76900,"N",1,0,0.283018867924528
+42,"MALE","IN","100/300","Single Vehicle Collision","Minor Damage","Rear Collision","Other",77000,"Y",1,0,0.283018867924528
+39,"MALE","IL","500/1000","Single Vehicle Collision","Major Damage","Side Collision","Other",60320,"Y",1,0,0.283018867924528
+46,"FEMALE","IN","100/300","Single Vehicle Collision","Minor Damage","Rear Collision","Fire",60700,"N",1,0,0.283018867924528
+21,"FEMALE","IN","250/500","Multi-vehicle Collision","Total Loss","Rear Collision","Police",53280,"N",1,1,0.27930174563591
+43,"FEMALE","IL","100/300","Single Vehicle Collision","Minor Damage","Rear Collision","Fire",34290,"N",1,0,0.283018867924528
+44,"MALE","OH","100/300","Single Vehicle Collision","Total Loss","Rear Collision","Other",46980,"N",1,0,0.283018867924528
+26,"MALE","IN","100/300","Multi-vehicle Collision","Major Damage","Front Collision","Fire",36700,"N",1,0,0.27930174563591
+28,"MALE","OH","250/500","Multi-vehicle Collision","Total Loss","Side Collision","Other",60200,"N",1,0,0.27930174563591
+38,"FEMALE","OH","500/1000","Single Vehicle Collision","Minor Damage","Front Collision","Fire",87200,"N",1,0,0.283018867924528
+34,"FEMALE","OH","250/500","Multi-vehicle Collision","Minor Damage","Side Collision","Police",67500,"N",1,0,0.27930174563591
+62,"MALE","IL","500/1000","Single Vehicle Collision","Major Damage","Rear Collision","Other",46980,"N",1,0,0.283018867924528
