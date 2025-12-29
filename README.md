@@ -94,3 +94,5 @@ Plusieurs graphiques sont réalisés pour illustrer les résultats de l’analys
   * observer la proportion de fraude dans le jeu de données.
 
 Ces résultats servent de base pour la modélisation statistique, notamment avec des modèles de type régression logistique ou GLM.
+
+## Etape 4: Modélisation
