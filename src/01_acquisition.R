@@ -4,5 +4,5 @@ library()
 data <- read.csv("data/raw/insurance_claims.csv", stringsAsFactors = FALSE)
 
 #Verification des colonnes et des premières observations:
-colnames(data)
 head(data)
+colnames(data)
