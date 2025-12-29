@@ -19,6 +19,12 @@ table(data_transf$insured_sex)
 prop.table(table(df$fraud_reported))
 
 #VISUALISATIONS : AJOUT GRAPHIQUES
+#1.Histogramme et Densité du montant des réclamations
+ggplot(data_transf, aes(x = total_claim_amount)) +
+  geom_histogram(aes(y = ..density..), bins = 30, fill = "skyblue", color = "white") +
+  geom_density(alpha = 0.2, fill = "red") +
+  labs(title = "Distribution du montant total des réclamations"
+       , x = "Montant", y = "Densité")
 
 
 
