@@ -126,7 +126,7 @@ Les modèles testés sont :
 -la régression logistique,
 -le modèle GLM.
 
-0.Séparation des données
+0. Séparation des données
 Les données sont séparées en deux ensembles : 80 % pour l’entraînement du modèle, 20 % pour le test des performances.
 Cette séparation permet d’évaluer la capacité des modèles à généraliser leurs prédictions sur des données non utilisées lors de l’estimation.
 
