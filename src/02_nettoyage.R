@@ -38,6 +38,8 @@ data_selection <- data_selection %>%
 #Ca va supprimer directement les observations contenant les valeurs
 #manquantes
 
+#Verification de notre nettoyage
+view(data_selection)
 #Traitement des valeurs aberrantes
 #Je vais me fixer un seuil du cout de reclamation 
 #Je vais choisir arbitrairement le seuil du 95e percentile
