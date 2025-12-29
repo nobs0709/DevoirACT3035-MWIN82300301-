@@ -71,3 +71,7 @@ data_selection <- left_join(data_selection, Taux_fraude, by = "incident_type")
 #Verifions que les nouvelles variables sont dans
 #notre jeu de donnees
 head(data_selection)
+
+#Transformation des variables de type caractere en facteur
+data_selection <- data_selection %>% 
+  mutate(across(where(is.character), as.factor))
