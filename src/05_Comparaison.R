@@ -19,3 +19,8 @@ print(paste("Dimension des données train: ",
             paste(dim(x_train), collapse = " x ")))
 print(paste("Dimension des données train: ", 
             paste(dim(x_test), collapse = " x ")))
+
+# Modèlisation actuarielle avec ces 2 methodes choisies:
+# Régression logistique et Modèle linéaire généralisé (GLM)
+#Je vais justifier un peu plus en bas pourquoi je les ai choisi
+#1. Régression logistique
