@@ -33,3 +33,5 @@ print(paste("Dimension des données train: ",
 modele_regLog <- glm(fraud_reported ~ ., 
                      data = cbind(x_train, fraud_reported = y_train), 
                      family = binomial())
+#Description de notre modele
+summary(modele_regLog)
