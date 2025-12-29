@@ -35,3 +35,16 @@ modele_regLog <- glm(fraud_reported ~ .,
                      family = binomial())
 #Description de notre modele
 summary(modele_regLog)
+
+#Test de notre modele
+y_predit <- predict(model_regLog, newdata = x_test, type = "response")
+y_pred_class <- ifelse(y_pred, 1, 0)
+y_pred_class
+head(y_predit)
+summary(proba_fraude)
+prediction <- ifelse(y_pred_class >= 0.3, 1, 0)
+
+table(
+  Réel = y_test,
+  Prédit = prediction
+)
