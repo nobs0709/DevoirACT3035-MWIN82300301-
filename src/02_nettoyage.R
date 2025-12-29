@@ -32,4 +32,7 @@ data_selection <- data_selection %>%
 #manquantes
 
 #Traitement des valeurs aberrantes
+#Je vais me fixer un seuil du cout de reclamation 
+#Je vais choisir arbitrairement le seuil du 95e percentile
+seuil_reclamation <- quantile(data_selection$total_claim_amount, 0.95)
 
