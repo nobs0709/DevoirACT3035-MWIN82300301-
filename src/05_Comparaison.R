@@ -61,3 +61,12 @@ table(
 #variable explicative qui infulence comme on l'a dit la probabilite de fraude
 #Brievement ce que je peux dire, un coefficient negatif signifie reduit le risque
 #de fraude tandisque un coefficient positif augmente le risque de fraude
+
+#Interpretation resultat predits: 
+#Quand j'ai effectue un test du modele sur le jeu du test, il a predit 
+#presque toutes les reclamations comme non frauduleuses car presque toute 
+#probabilite de fraude est proche de 0; Ca ne veut pas dire que le modele 
+#n'est pas correct ou n'a pas marche ca veut tout simplement dire ca montre
+#que les fraudes sont très rares dans les données et
+#que le modèle initial avait trop de variables, 
+#ce qui l’empêche de distinguer les rares cas de fraude.
