@@ -40,6 +40,7 @@ data_selection <- data_selection %>%
 
 #Verification de notre nettoyage
 view(data_selection)
+
 #Traitement des valeurs aberrantes
 #Je vais me fixer un seuil du cout de reclamation 
 #Je vais choisir arbitrairement le seuil du 95e percentile
@@ -51,4 +52,15 @@ seuil_reclamation <- quantile(data_selection$total_claim_amount, 0.95)
 data_selection <- data_selection %>%
   filter(total_claim_amount <= seuil_reclamation)
 
+# Création de nouvelles variables
+
+data_selection <- data_selection %>%
+  mutate(
+    haute_reclamation = ifelse(total_claim_amount > 10000, 1, 0),
+    jeune_conducteur = ifelse(age < 25, 1, 0)
+  )
+# Probabilité de réclamation par type d’incident
+Taux_fraude <- data_selection %>%
+  group_by(incident_type) %>%
+  summarise(prob_reclam = mean(fraud_reported == "Y"))
 
