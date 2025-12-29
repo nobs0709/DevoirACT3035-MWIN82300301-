@@ -1,3 +1,4 @@
+#Etape: Analyse Exploratoire
 library (tidyverse)
 library (dplyr)
 library (ggplot2)
