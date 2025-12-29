@@ -14,7 +14,7 @@ Ce travail pratique vise à réaliser un projet complet de science des données 
 Le jeu de données utilisé provient de la plateforme **Kaggle** et concerne des réclamations d’assurance automobile.  
 Les données ont été téléchargées manuellement à partir du lien suivant :  
 https://www.kaggle.com/datasets/buntyshah/auto-insurance-claims-data/data  
-Le fichier original a été conservé dans le dossier `data/raw` afin de préserver l’intégrité des données brutes avant toute transformation.
+Le fichier original a été conservé dans le dossier data/raw afin de préserver l’intégrité des données brutes avant toute transformation.
 
 3. Processus ETL (Extraction, Transformation, Chargement)
  3.1 Extraction
@@ -24,14 +24,14 @@ Le fichier original a été conservé dans le dossier `data/raw` afin de préser
 Plusieurs étapes de nettoyage et de transformation ont été réalisées :
 
 - sélection des variables pertinentes pour l’analyse actuarielle ;
-- remplacement des valeurs `"?"` par des valeurs manquantes (`NA`) ;
-- suppression des observations contenant des valeurs manquantes à l’aide de `na.omit()` ;
+- remplacement des valeurs "?" par des valeurs manquantes (NA) ;
+- suppression des observations contenant des valeurs manquantes à l’aide de na.omit() ;
 - traitement des valeurs aberrantes du montant des réclamations en utilisant le **95e percentile** comme seuil ;
 - création de variables dérivées, notamment :
 - indicateur de haute réclamation ;
 - indicateur de jeune conducteur ;
 - transformation des variables catégorielles en facteurs ;
-- conversion de la variable cible `fraud_reported` en variable binaire (0 = non frauduleuse, 1 = frauduleuse).
+- conversion de la variable cible fraud_reported en variable binaire (0 = non frauduleuse, 1 = frauduleuse).
 
 3.3 Chargement
 
