@@ -35,3 +35,8 @@ Cette approche a été choisie conformément aux notions vues en cours, pour gar
 Les valeurs aberrantes ont été traitées à l’aide d’un seuil basé sur le 95e percentile du montant total des réclamations (total_claim_amount).
 Toute observation dépassant ce seuil a été exclue du jeu de données.
 Ce choix permet de limiter l’influence des réclamations extrêmement élevées sur les modèles.
+
+Deux nouvelles variables ont été créées afin d’enrichir l’analyse actuarielle :
+haute_reclamation : indicateur binaire égal à 1 si le montant total dépasse 10 000 $
+jeune_conducteur : indicateur binaire égal à 1 si l’âge est inférieur à 25 ans
+De plus, une variable représentant la probabilité de fraude par type d’incident a été calculée et ajoutée au jeu de données.
