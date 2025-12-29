@@ -75,3 +75,13 @@ head(data_selection)
 #Transformation des variables de type caractere en facteur
 data_selection <- data_selection %>% 
   mutate(across(where(is.character), as.factor))
+
+#Chargement
+write.csv(data_selection, "data/processed/insurance_final.csv", row.names = FALSE)
+
+#Séparation éventuelle en ensembles d'entraînement et de test
+set.seed(123)
+taille <- nrow(data_selection)
+indice_repartition <- sample(1:taille, size=floor(.8 * taille))
+data_train <- data_selection[indice_repartition, ]
+data_test <- data_selection[-indice_repartition, ]
