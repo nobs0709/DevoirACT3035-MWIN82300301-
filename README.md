@@ -74,13 +74,13 @@ Des tableaux de fréquences sont produits pour certaines variables catégorielle
 2.Visualisations graphiques
 
 Plusieurs graphiques sont réalisés pour illustrer les résultats de l’analyse exploratoire :
-   - Histogramme et courbe de densité du montant total des réclamations
+  - Histogramme et courbe de densité du montant total des réclamations
      Ce graphique permet d’observer la distribution des coûts de réclamation et de vérifier si celle-ci est asymétrique.
 
-   -Boxplot du montant des sinistres par type d’incident
+  -Boxplot du montant des sinistres par type d’incident
       Ce graphique met en évidence les différences de montants de réclamation selon le type d’incident et permet d’identifier d’éventuelles valeurs extrêmes.
 
-  -Analyse de corrélation
+ -Analyse de corrélation
      Une matrice de corrélation est construite entre l’âge de l’assuré et le montant total des réclamations.
      Le graphique de corrélation permet d’évaluer visuellement l’intensité et le sens du lien entre ces variables numériques.
 
@@ -89,8 +89,8 @@ Plusieurs graphiques sont réalisés pour illustrer les résultats de l’analys
 
 3.Conclusion de l’analyse exploratoire
  Cette analyse exploratoire permet de :
-  *mieux comprendre la distribution des variables clés,
-  *identifier des différences selon les types d’incidents,
-  *observer la proportion de fraude dans le jeu de données.
+  * mieux comprendre la distribution des variables clés,
+  * identifier des différences selon les types d’incidents,
+  * observer la proportion de fraude dans le jeu de données.
 
 Ces résultats servent de base pour la modélisation statistique, notamment avec des modèles de type régression logistique ou GLM.
