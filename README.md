@@ -99,3 +99,23 @@ Ces résultats servent de base pour la modélisation statistique, notamment avec
 Cette étape vise à mettre en place un modèle statistique afin de prédire la probabilité qu’une réclamation soit frauduleuse.
 Les données transformées sont importées à partir du dossier data/processed. 
 Une vérification rapide des premières observations est effectuée afin de s’assurer que les variables sont correctement chargées.
+
+1. Définition de la variable à prédire
+
+La variable cible est: fraud_reported
+Cette variable indique si une réclamation est frauduleuse ou non.
+Elle a été transformée lors des étapes précédentes en variable binaire (0 = non frauduleuse, 1 = frauduleuse).
+Ce choix est naturel puisque l’objectif principal de mon projet est de déterminer la probabilité qu’une réclamation soit frauduleuse ou non.
+
+2.Sélection des variables explicatives
+
+Les variables explicatives retenues sont :age, insured_sex, policy_state, policy_csl, incident_type, incident_severity, collision_type, authorities_contacted
+et enfin total_claim_amount.
+Ces variables ont été choisies car elles décrivent à la fois :le profil de l’assuré, les caractéristiques du contrat d’assurance ainsi que
+les informations liées au sinistre.
+Ces variables sont logiquement susceptibles d’influencer la probabilité qu’une réclamation soit frauduleuse.
+
+3.Objectif de la modélisation
+L’objectif de cette étape est : ’identifier les facteurs explicatifs associés à la fraude,
+de prédire la probabilité de fraude à partir des caractéristiques des assurés et des sinistres et de comparer différents modèles statistiques adaptés à une variable binaire.
+Les résultats obtenus serviront ensuite à évaluer la qualité des modèles et à interpréter l’impact des variables explicatives sur le risque de fraude.
