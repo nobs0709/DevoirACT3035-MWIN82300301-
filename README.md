@@ -2,7 +2,8 @@
 
 ## Description
 
-TP de Nobella pour ACT3035
+TP ACT3035 
 ## Acquisition des donnees
 J'ai fait un telechargement manuel de mes donnees via Kaggle, voici le [lien](https://www.kaggle.com/datasets/buntyshah/auto-insurance-claims-data/data).
+
 
