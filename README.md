@@ -152,3 +152,35 @@ alternative à la régression logistique pour la modélisation du risque de frau
 Les résultats montrent que le modèle GLM :
 reconnaît correctement une grande partie des dossiers honnêtes, identifie 42 cas de fraude sur l’échantillon de test.
 Cela indique que le modèle joue un rôle de détecteur de fraude, même s’il ne capture pas encore l’ensemble des cas frauduleux.
+
+## Etape 6: Comparaison des modèles et Interpretation
+1. La comparaison des deux modèles repose principalement sur le critère AIC.
+Un AIC plus faible indique un meilleur compromis entre la qualité d’ajustement du modèle et sa complexité.
+Dans notre cas :
+le modèle de régression logistique présente un AIC plus faible que le modèle GLM, il est également plus simple à interpréter.
+
+2. Modèle retenu:
+Malgré les bonnes performances du modèle GLM en détection, la régression logistique est retenue comme modèle final, car :
+-elle présente un meilleur AIC,
+-elle est plus facile à interpréter,
+-elle reste plus adaptée à un contexte actuariel opérationnel.
+
+3. Implications pratiques (point de vue actuariel)
+Les résultats obtenus peuvent être utilisés pour :
+-prioriser les dossiers à vérifier par les équipes antifraude,
+-réduire les pertes financières liées aux réclamations frauduleuses,
+-mettre en place des alertes automatiques pour les sinistres à risque élevé.
+
+## Etape 7 : Discussion des limites
+1. Limites
+L’analyse repose sur un échantillon limité, ce qui peut affecter la stabilité des résultats.
+Les performances peuvent varier avec l'introduction de nouvelles données.
+
+2. Biais potentiels des données
+Certains cas de fraude peuvent être mal étiquetés.
+Les variables disponibles ne capturent peut-être pas tous les facteurs influençant la fraude.
+
+ 3. Améliorations possibles
+-Ajouter des variables supplémentaires (historique des réclamations, fréquence des sinistres, etc.).
+-Ajuster le seuil de classification afin d’améliorer la détection des fraudes rares.
+
