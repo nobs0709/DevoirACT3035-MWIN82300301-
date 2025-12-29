@@ -36,3 +36,8 @@ data_selection <- data_selection %>%
 #Je vais choisir arbitrairement le seuil du 95e percentile
 seuil_reclamation <- quantile(data_selection$total_claim_amount, 0.95)
 
+# sur chaque cout total reclamation superieur au seuil
+#il sera considere comme valeur aberrante et R va le rejeter
+# Donc, on a :
+data_selection <- data_selection %>%
+  filter(total_claim_amount <= seuil_reclamation)
