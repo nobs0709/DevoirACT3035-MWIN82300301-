@@ -102,3 +102,6 @@ table(
 #42 cas de fraude cad le modèle glm reconnaît bien les dossiers honnêtes, 
 #mais il rate encore quelques fraudes, ce qui montre que nos variables 
 #sont utiles mais pas parfaites.
+
+#Comparaison de modele_RegLog et modele_glm
+AIC(modele_regLog, modele_glm)
