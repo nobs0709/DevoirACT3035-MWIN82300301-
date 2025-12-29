@@ -67,3 +67,7 @@ Taux_fraude <- data_selection %>%
 
 #Joindre la nouvelle variable a notre data de base
 data_selection <- left_join(data_selection, Taux_fraude, by = "incident_type")
+
+#Verifions que les nouvelles variables sont dans
+#notre jeu de donnees
+head(data_selection)
