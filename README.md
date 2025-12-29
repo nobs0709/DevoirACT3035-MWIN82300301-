@@ -31,3 +31,7 @@ Lors de l’exploration des données, la variable collision_type contenait des v
 Ces valeurs ont été remplacées par NA.
 Ensuite, la méthode na.omit() a été utilisée afin de supprimer les observations contenant des valeurs manquantes.
 Cette approche a été choisie conformément aux notions vues en cours, pour garantir un jeu de données complet avant la modélisation.
+
+Les valeurs aberrantes ont été traitées à l’aide d’un seuil basé sur le 95e percentile du montant total des réclamations (total_claim_amount).
+Toute observation dépassant ce seuil a été exclue du jeu de données.
+Ce choix permet de limiter l’influence des réclamations extrêmement élevées sur les modèles.
