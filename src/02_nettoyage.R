@@ -25,3 +25,9 @@ view (data_selection)
 #Gestion des valeurs manquantes
 data_selection <- data_selection %>%
    na.omit()
+#D'apres ce qu'on a vu en cours, j'ai
+#utiliser la methode na.omit() pour faire
+#le nettoyage des valeurs manquantes
+#Ca va supprimer directement les observations contenant les valeurs
+#manquantes
+
