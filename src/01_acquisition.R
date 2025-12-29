@@ -15,7 +15,7 @@ head(data)
 
 
 #Selection des variables necessaires
-data_selection <- data %>%
+data_selection <- data %>%je 
   select(
     age,
     insured_sex,
