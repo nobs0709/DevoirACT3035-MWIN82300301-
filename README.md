@@ -18,5 +18,7 @@ Les étapes seront celles-ci:
 Les données utilisées dans ce projet ont étés collectées sur le site web des données ouvertes Kaggle.
 Mon jeu de données choisi est appelé "Insurance_claims"; vous pouvez y acceder direct via 
 le [lien](https://www.kaggle.com/datasets/buntyshah/auto-insurance-claims-data/data).
+Les données ont été téléchargées manuellement à partir de la plateforme Kaggle. Le fichier CSV a ensuite été placé dans le dossier data/raw afin de conserver les données brutes avant toute transformation.
+Mon jeu de données contient 1000 observations et contient 1000 observations.
 
 
