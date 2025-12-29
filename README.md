@@ -74,18 +74,18 @@ Des tableaux de fréquences sont produits pour certaines variables catégorielle
 2.Visualisations graphiques
 
 Plusieurs graphiques sont réalisés pour illustrer les résultats de l’analyse exploratoire :
-     - Histogramme et courbe de densité du montant total des réclamations
-        Ce graphique permet d’observer la distribution des coûts de réclamation et de vérifier si celle-ci est asymétrique.
+   - Histogramme et courbe de densité du montant total des réclamations
+     Ce graphique permet d’observer la distribution des coûts de réclamation et de vérifier si celle-ci est asymétrique.
 
-      -Boxplot du montant des sinistres par type d’incident
-        Ce graphique met en évidence les différences de montants de réclamation selon le type d’incident et permet d’identifier d’éventuelles valeurs extrêmes.
+   -Boxplot du montant des sinistres par type d’incident
+      Ce graphique met en évidence les différences de montants de réclamation selon le type d’incident et permet d’identifier d’éventuelles valeurs extrêmes.
 
-       -Analyse de corrélation
-         Une matrice de corrélation est construite entre l’âge de l’assuré et le montant total des réclamations.
-         Le graphique de corrélation permet d’évaluer visuellement l’intensité et le sens du lien entre ces variables numériques.
+  -Analyse de corrélation
+     Une matrice de corrélation est construite entre l’âge de l’assuré et le montant total des réclamations.
+     Le graphique de corrélation permet d’évaluer visuellement l’intensité et le sens du lien entre ces variables numériques.
 
-       - Répartition des sinistres frauduleux
-         Un diagramme en barres montre le nombre de cas frauduleux et non frauduleux, ce qui permet de visualiser la distribution de la variable cible.
+  -Répartition des sinistres frauduleux
+    Un diagramme en barres montre le nombre de cas frauduleux et non frauduleux, ce qui permet de visualiser la distribution de la variable cible.
 
 3.Conclusion de l’analyse exploratoire
  Cette analyse exploratoire permet de :
