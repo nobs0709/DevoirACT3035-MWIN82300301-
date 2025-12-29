@@ -14,7 +14,7 @@ Les étapes seront celles-ci:
 6.Comparaison et Interpretation des resultats
 7.discussion des limites
 
-## Acquisition des donnees
+## Etape 1: Acquisition des donnees
 J'ai fait un telechargement manuel de mes donnees via Kaggle, voici le [lien](https://www.kaggle.com/datasets/buntyshah/auto-insurance-claims-data/data).
 
 
