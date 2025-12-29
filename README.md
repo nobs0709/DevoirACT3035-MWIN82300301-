@@ -96,3 +96,6 @@ Plusieurs graphiques sont réalisés pour illustrer les résultats de l’analys
 Ces résultats servent de base pour la modélisation statistique, notamment avec des modèles de type régression logistique ou GLM.
 
 ## Etape 4: Modélisation
+Cette étape vise à mettre en place un modèle statistique afin de prédire la probabilité qu’une réclamation soit frauduleuse.
+Les données transformées sont importées à partir du dossier data/processed. 
+Une vérification rapide des premières observations est effectuée afin de s’assurer que les variables sont correctement chargées.
