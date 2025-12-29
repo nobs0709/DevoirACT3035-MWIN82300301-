@@ -27,10 +27,14 @@ ggplot(data_transf, aes(x = total_claim_amount)) +
        , x = "Montant", y = "Densité")
 
 # 2. Boxplot du montant des sinistres par type d'incident
-ggplot(data_selection, aes(x = incident_type, y = total_claim_amount)) +
+ggplot(data_transf, aes(x = incident_type, y = total_claim_amount)) +
   geom_boxplot(fill = "green") +
   labs(title = "Montant des sinistres par type d'incident",
        x = "Type d'incident",
-       y = "Montant du sinistre") 
+       y = "Montant du sinistre")
 
+#3. Graphique de Correlation
+#Pour ce graphique on aura besoin de la matrice de correlation
+data_numeric <- data_transf[, c("age", "total_claim_amount")]
+matrix_corr <- cor(data_numeric, use="complete.obs")
 
