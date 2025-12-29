@@ -77,6 +77,9 @@ head(data_selection)
 data_selection <- data_selection %>% 
   mutate(across(where(is.character), as.factor))
 
+#Transformation variable cible en binaire
+data_selection$fraud_reported <- ifelse(data_selection$fraud_reported == "Y", 1, 0)
+
 #Chargement
 write.csv(data_selection, "data/processed/insurance_final.csv", row.names = FALSE)
 

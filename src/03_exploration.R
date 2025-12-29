@@ -17,7 +17,7 @@ sd_reclam <- sd(data_transf$total_claim_amount)
 table(data_transf$incident_severity)
 table(data_transf$insured_sex)
 # Proportion de fraude
-prop.table(table(df$fraud_reported))
+prop.table(table(data_transf$fraud_reported))
 
 #VISUALISATIONS : AJOUT GRAPHIQUES
 #1.Histogramme et Densité du montant des réclamations
