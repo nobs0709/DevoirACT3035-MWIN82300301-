@@ -26,5 +26,11 @@ ggplot(data_transf, aes(x = total_claim_amount)) +
   labs(title = "Distribution du montant total des réclamations"
        , x = "Montant", y = "Densité")
 
+# 2. Boxplot du montant des sinistres par type d'incident
+ggplot(data_selection, aes(x = incident_type, y = total_claim_amount)) +
+  geom_boxplot(fill = "green") +
+  labs(title = "Montant des sinistres par type d'incident",
+       x = "Type d'incident",
+       y = "Montant du sinistre") 
 
 
