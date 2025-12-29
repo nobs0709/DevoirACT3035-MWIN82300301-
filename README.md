@@ -119,3 +119,39 @@ Ces variables sont logiquement susceptibles d’influencer la probabilité qu’
 L’objectif de cette étape est : ’identifier les facteurs explicatifs associés à la fraude,
 de prédire la probabilité de fraude à partir des caractéristiques des assurés et des sinistres et de comparer différents modèles statistiques adaptés à une variable binaire.
 Les résultats obtenus serviront ensuite à évaluer la qualité des modèles et à interpréter l’impact des variables explicatives sur le risque de fraude.
+
+## Etape 5 : Comparaison des modèles et interprétation
+Cette étape a pour objectif de comparer deux modèles de classification afin d’identifier celui qui est le plus adapté à la détection des réclamations frauduleuses. 
+Les modèles testés sont :
+-la régression logistique,
+-le modèle GLM.
+
+0.Séparation des données
+Les données sont séparées en deux ensembles : 80 % pour l’entraînement du modèle, 20 % pour le test des performances.
+Cette séparation permet d’évaluer la capacité des modèles à généraliser leurs prédictions sur des données non utilisées lors de l’estimation.
+
+1. Modèle 1 : Régression logistique
+La régression logistique est un modèle classique utilisé pour prédire une variable binaire. Elle permet à la fois de prédire la probabilité de fraude
+mais aussi d’interpréter l’effet de chaque variable explicative à l’aide des coefficients estimés.
+
+2. Interprétation des coefficients
+Un coefficient positif indique que la variable augmente la probabilité de fraude.
+Un coefficient négatif indique une diminution du risque de fraude.
+Ce modèle est simple à mettre en œuvre et beaucoup utilisé en actuariat pour l’analyse du risque.
+
+3. Résultats de prédiction
+Lors de l’application du modèle sur l’échantillon de test, la majorité des réclamations sont prédites comme non frauduleuses.
+Cela s’explique principalement par le fait que les cas de fraude sont rares dans les données et que le modèle a tendance à privilégier la classe majoritaire.
+Cela ne signifie pas que le modèle est incorrect, mais plutôt qu’il est peu sensible aux fraudes rares sans ajustement du seuil ou des variables.
+
+4. Modèle 2 : Modèle GLM
+Le modèle Probit est un modèle linéaire généralisé adapté aux variables binaires, utilisant une fonction de lien différente de la régression logistique.
+
+5. Justification du choix
+Ce modèle est pertinent car il permet d’analyser l’influence des variables explicatives tout en offrant une approche
+alternative à la régression logistique pour la modélisation du risque de fraude.
+
+6. Résultats de prédiction
+Les résultats montrent que le modèle GLM :
+reconnaît correctement une grande partie des dossiers honnêtes, identifie 42 cas de fraude sur l’échantillon de test.
+Cela indique que le modèle joue un rôle de détecteur de fraude, même s’il ne capture pas encore l’ensemble des cas frauduleux.
