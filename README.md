@@ -172,15 +172,7 @@ Les résultats obtenus peuvent être utilisés pour :
 -mettre en place des alertes automatiques pour les sinistres à risque élevé.
 
 ## Etape 7 : Discussion des limites
-1. Limites
-L’analyse repose sur un échantillon limité, ce qui peut affecter la stabilité des résultats.
-Les performances peuvent varier avec l'introduction de nouvelles données.
-
-2. Biais potentiels des données
-Certains cas de fraude peuvent être mal étiquetés.
-Les variables disponibles ne capturent peut-être pas tous les facteurs influençant la fraude.
-
- 3. Améliorations possibles
--Ajouter des variables supplémentaires (historique des réclamations, fréquence des sinistres, etc.).
--Ajuster le seuil de classification afin d’améliorer la détection des fraudes rares.
+1. Limites: L’analyse repose sur un échantillon limité, ce qui peut affecter la stabilité des résultats. Les performances peuvent varier avec l'introduction de nouvelles données.
+2. Biais potentiels des données : Certains cas de fraude peuvent être mal étiquetés. Les variables disponibles ne capturent peut-être pas tous les facteurs influençant la fraude.
+3. Améliorations possibles: Ajouter des variables supplémentaires (historique des réclamations, fréquence des sinistres, etc.). Ajuster le seuil de classification afin d’améliorer la détection des fraudes rares.
 
