@@ -161,15 +161,15 @@ le modèle de régression logistique présente un AIC plus faible que le modèle
 
 2. Modèle retenu:
 Malgré les bonnes performances du modèle GLM en détection, la régression logistique est retenue comme modèle final, car :
--elle présente un meilleur AIC,
--elle est plus facile à interpréter,
--elle reste plus adaptée à un contexte actuariel opérationnel.
+elle présente un meilleur AIC,
+elle est plus facile à interpréter,
+elle reste plus adaptée à un contexte actuariel opérationnel.
 
 3. Implications pratiques (point de vue actuariel)
 Les résultats obtenus peuvent être utilisés pour :
--prioriser les dossiers à vérifier par les équipes antifraude,
--réduire les pertes financières liées aux réclamations frauduleuses,
--mettre en place des alertes automatiques pour les sinistres à risque élevé.
+prioriser les dossiers à vérifier par les équipes antifraude,
+réduire les pertes financières liées aux réclamations frauduleuses,
+mettre en place des alertes automatiques pour les sinistres à risque élevé.
 
 ## Etape 7 : Discussion des limites
 1. Limites: L’analyse repose sur un échantillon limité, ce qui peut affecter la stabilité des résultats. Les performances peuvent varier avec l'introduction de nouvelles données.
