@@ -114,3 +114,9 @@ summary(modele_glm)
 #Le modèle avec l’AIC le plus faible est préféré, 
 #car il équilibre mieux la qualité d’ajustement et la simplicité.
 #De plus les resultats du modele GLM sont un peu complexe a interpreter
+
+#Implications pratiques:
+#Les résultats peuvent être utilisés: 
+#1.pour prioriser les vérifications des réclamations.
+#2.à réduire les pertes liées aux fraudes en ciblant les dossiers à surveiller.
+#3.améliorer les politiques internes ou des alertes automatiques.
