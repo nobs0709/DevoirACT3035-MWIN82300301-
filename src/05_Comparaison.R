@@ -120,3 +120,18 @@ summary(modele_glm)
 #1.pour prioriser les vérifications des réclamations.
 #2.à réduire les pertes liées aux fraudes en ciblant les dossiers à surveiller.
 #3.améliorer les politiques internes ou des alertes automatiques.
+
+#ETAPE DERNIER
+# Limites de l’analyse
+#Le modèle est basé sur un échantillon limité, 
+# donc les performances poeuvent surement changer avec de nouvelles données.
+
+# Biais potentiels des données
+#Certains dossiers peuvent être mal étiquetés ce qui ne detecte pas la fraude.
+# Ou bien les variables explicatives ne capturent peut-être
+#pas toutes les caractéristiques influençant la fraude.
+
+#Améliorations possibles
+# Ajout d’autres variables peut s'averer pertinentes par exemple:
+# historique de l’assuré, fréquence des réclamations,etc.
+# Ajuster le seuil de classification pour mieux détecter les fraudes rares.
