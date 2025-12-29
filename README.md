@@ -21,7 +21,7 @@ le [lien](https://www.kaggle.com/datasets/buntyshah/auto-insurance-claims-data/d
 Les données ont été téléchargées manuellement à partir de la plateforme Kaggle. Le fichier CSV a ensuite été placé dans le dossier data/raw afin de conserver les données brutes avant toute transformation.
 Mon jeu de données contient 1000 observations et contient 1000 observations.
 
-##Etape 2 : processus ETL
+## Etape 2 : processus ETL
 Cette étape vise à préparer les données brutes pour l’analyse et la modélisation en appliquant un processus ETL rigoureux : extraction, transformation et chargement.
 D'abord j'ai fait l'importation de mon jeu de données à partir du fichier CSV conservé dans le dossier data/raw.
 
