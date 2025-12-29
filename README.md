@@ -24,4 +24,5 @@ Mon jeu de données contient 1000 observations et contient 1000 observations.
 ## Etape 2 : processus ETL
 Cette étape vise à préparer les données brutes pour l’analyse et la modélisation en appliquant un processus ETL rigoureux : extraction, transformation et chargement.
 D'abord j'ai fait l'importation de mon jeu de données à partir du fichier CSV conservé dans le dossier data/raw.
-
+Mon jeu de données a beaucoup de variables mais pour faciliter l'analyse actuairlle, j'ai fait une sélection des variables les plus pertinentes entre autres:
+age,insured_sex, policy_state, policy_csl, incident_type, incident_severity, collision_type, authorities_contacted, total_claim_amount, fraud_reported
