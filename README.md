@@ -6,13 +6,13 @@ Ce dépôt contient mon travail concernant le TP du cours Laboratoire et Actuari
 Dans ce travail seul le langage R a été utilisé
 Ce projet a pour objectif de faire une analyse acturielle d'un jeu de données collectées sur un des sites proposées afin de construire des modèles prédictifs pertinents.
 Les étapes seront celles-ci:
-1.Acquisition des données
-2.processuss ETL
-3.Analyse Exploratoire
-4.Definition du problème actuariel
-5.Modélisation
-6.Comparaison et Interpretation des resultats
-7.discussion des limites
+1. Acquisition des données
+2. processuss ETL
+3. Analyse Exploratoire
+4. Definition du problème actuariel
+5. Modélisation
+6. Comparaison et Interpretation des resultats
+7. discussion des limites
 
 ## Etape 1: Acquisition des donnees
 Les données utilisées dans ce projet ont étés collectées sur le site web des données ouvertes Kaggle.
@@ -95,10 +95,9 @@ Plusieurs graphiques sont réalisés pour illustrer les résultats de l’analys
 
 Ces résultats servent de base pour la modélisation statistique, notamment avec des modèles de type régression logistique ou GLM.
 
-## Etape 4: Modélisation
-Cette étape vise à mettre en place un modèle statistique afin de prédire la probabilité qu’une réclamation soit frauduleuse.
-Les données transformées sont importées à partir du dossier data/processed. 
-Une vérification rapide des premières observations est effectuée afin de s’assurer que les variables sont correctement chargées.
+## Etape 4: Definition du problème actuariel
+Dans un contexte d’assurance automobile, la fraude aux réclamations représente un enjeu majeur pour les assureurs, car elle entraîne des coûts supplémentaires, une augmentation des primes et une mauvaise allocation des ressources de gestion des sinistres.
+Le problème actuariel étudié dans mon projet consiste à modéliser et prédire la probabilité qu’une réclamation soit frauduleuse, à partir des caractéristiques de l’assuré, du contrat et du sinistre.
 
 1. Définition de la variable à prédire
 
@@ -107,20 +106,18 @@ Cette variable indique si une réclamation est frauduleuse ou non.
 Elle a été transformée lors des étapes précédentes en variable binaire (0 = non frauduleuse, 1 = frauduleuse).
 Ce choix est naturel puisque l’objectif principal de mon projet est de déterminer la probabilité qu’une réclamation soit frauduleuse ou non.
 
-2.Sélection des variables explicatives
+2. Sélection des variables explicatives
 
 Les variables explicatives retenues sont :age, insured_sex, policy_state, policy_csl, incident_type, incident_severity, collision_type, authorities_contacted
 et enfin total_claim_amount.
-Ces variables ont été choisies car elles décrivent à la fois :le profil de l’assuré, les caractéristiques du contrat d’assurance ainsi que
-les informations liées au sinistre.
-Ces variables sont logiquement susceptibles d’influencer la probabilité qu’une réclamation soit frauduleuse.
+Ces variables ont été choisies car sont logiquement susceptibles d’influencer la probabilité qu’une réclamation soit frauduleuse.
 
-3.Objectif de la modélisation
-L’objectif de cette étape est : ’identifier les facteurs explicatifs associés à la fraude,
+3. Objectif de la modélisation
+L’objectif de cette étape est : d’identifier les facteurs explicatifs associés à la fraude,
 de prédire la probabilité de fraude à partir des caractéristiques des assurés et des sinistres et de comparer différents modèles statistiques adaptés à une variable binaire.
 Les résultats obtenus serviront ensuite à évaluer la qualité des modèles et à interpréter l’impact des variables explicatives sur le risque de fraude.
 
-## Etape 5 : Comparaison des modèles et interprétation
+## Etape 5 : Modelisation
 Cette étape a pour objectif de comparer deux modèles de classification afin d’identifier celui qui est le plus adapté à la détection des réclamations frauduleuses. 
 Les modèles testés sont :
 -la régression logistique,
