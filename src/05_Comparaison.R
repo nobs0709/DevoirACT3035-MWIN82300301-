@@ -20,7 +20,6 @@ print(paste("Dimension des données train: ",
 print(paste("Dimension des données train: ", 
             paste(dim(x_test), collapse = " x ")))
 
-# Modèlisation actuarielle avec ces 2 methodes choisies:
-# Régression logistique et Modèle linéaire généralisé (GLM)
-#Je vais justifier un peu plus en bas pourquoi je les ai choisi
-#1. Régression logistique
+#Conversion de y_train en valeur binaire 
+y_train_converti <- ifelse(y_train == "Y" | y_train == "1", 1, 0)
+
