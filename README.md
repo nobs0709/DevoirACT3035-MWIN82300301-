@@ -40,3 +40,9 @@ Deux nouvelles variables ont été créées afin d’enrichir l’analyse actuar
 haute_reclamation : indicateur binaire égal à 1 si le montant total dépasse 10 000 $
 jeune_conducteur : indicateur binaire égal à 1 si l’âge est inférieur à 25 ans
 De plus, une variable représentant la probabilité de fraude par type d’incident a été calculée et ajoutée au jeu de données.
+
+Les variables de type caractère ont été converties en facteurs
+
+La variable cible fraud_reported a été transformée en variable binaire :
+1 pour reclamation frauduleuse
+0 pour reclamation honnête
