@@ -38,3 +38,11 @@ ggplot(data_transf, aes(x = incident_type, y = total_claim_amount)) +
 data_numeric <- data_transf[, c("age", "total_claim_amount")]
 matrix_corr <- cor(data_numeric, use="complete.obs")
 
+#Visionnement du graphique
+install.packages("ggcorrplot")
+library(ggcorrplot)
+ggcorrplot(matrix_corr,
+           type = "lower", 
+           lab = TRUE,
+           title = "Corrélation age vs claim_amount")
+
