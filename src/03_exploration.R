@@ -1,5 +1,6 @@
 library (tidyverse)
 library (dplyr)
+library (ggplot2)
 
 #Importation de nos donnees transformees
 data_transf <- read.csv("data/processed/insurance_final.csv")
@@ -15,4 +16,7 @@ sd_reclam <- sd(data_transf$total_claim_amount)
 table(data_transf$incident_severity)
 table(data_transf$insured_sex)
 # Proportion de fraude
+
+#VISUALISATIONs
 prop.table(table(data_transf$fraud_reported))
+
